@@ -1,0 +1,957 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data id="GL721">
+  <entities>
+    <entity id="GL721_001" wikipedia="Ždeglovo" osm="1655813294" type="node">
+      <p id="GL721_001_001" num_links="2">Ždeglovo is a village in the municipality of <link wikipedia="Lebane" osm="1655844203" type="node">Lebane</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 695 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_002" wikipedia="Ždiar" osm="2275144" type="relation">
+      <p id="GL721_002_001" num_links="3">Ždiar (former name Žjár) is a village and municipality in the <link wikipedia="Poprad_District" osm="388250" type="relation">Poprad District</link> in the <link wikipedia="Prešov_Region" osm="388271" type="relation">Prešov Region</link> in Spiš in northern <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_003" wikipedia="Ždinja_Vas" osm="5334085445" type="node">
+      <p id="GL721_003_001" num_links="3">Ždinja Vas (pronounced [ˈʒdiːnja ˈʋaːs]; Slovene: Ždinja vas, German: Seidendorf[2]) is a settlement in the hills north of <link wikipedia="Novo_Mesto" osm="57074435" type="node">Novo Mesto</link> in southeastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[3]
+</p>
+      <p id="GL721_003_002" num_links="2">The local <link wikipedia="Church_(building)" osm="253234529 6377990711 681499085" type="node node way">church</link>, built on the southern outskirts of the village, is dedicated to Saint James and belongs to the Parish of <link wikipedia="Otočec" osm="57075060" type="node">Šentpeter, Otočec</link>. It was a medieval building that was extensively restyled in the Baroque style in the mid-17th century.[4]
+
+</p>
+    </entity>
+    <entity id="GL721_004" wikipedia="Ždrelo" osm="4242324243" type="node">
+      <p id="GL721_004_001" num_links="2">Ždrelo is a village situated in <link wikipedia="Petrovac,_Serbia" osm="1582397428" type="node">Petrovac na Mlavi</link> municipality in <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>.[1] A large community of Vlachs/Romanians dwell here.
+
+</p>
+    </entity>
+    <entity id="GL721_005" wikipedia="Ždírec_(Jihlava_District)" osm="436924" type="relation">
+      <p id="GL721_005_001" num_links="4">Ždírec (German: Seelenz) is a village situated in <link wikipedia="Vysočina_Region" osm="442453" type="relation">Vysočina Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. The municipality covers an area of 10.35 square kilometres (4.00 sq mi) and has a population of 405 (as at 26 March 2011). Ždírec lies approximately 10 kilometres north-east of <link wikipedia="Jihlava" osm="21562694 440427" type="node relation">Jihlava</link> and 4.5 kilometres south-west of <link wikipedia="Polná" osm="1586423139 440559" type="node relation">Polná</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_006" wikipedia="Ždírec_nad_Doubravou" osm="440430" type="relation">
+      <p id="GL721_006_001" num_links="2">Ždírec nad Doubravou (until 1950 Ždírec) is a town in <link wikipedia="Havlíčkův_Brod_District" osm="441984" type="relation">Havlíčkův Brod District</link> in the <link wikipedia="Vysočina_Region" osm="442453" type="relation">Vysočina Region</link> of the Czech Republic. The town covers an area of 26.74 square kilometres (10.32 sq mi) and has a population of about 3,100.
+</p>
+      <p id="GL721_006_002" num_links="3">Ždírec nad Doubravou lies approximately 20 kilometres (12 mi) north-east of <link wikipedia="Havlíčkův_Brod" osm="1586392563 440699" type="node relation">Havlíčkův Brod</link>, 37 km (23 mi) north-east of <link wikipedia="Jihlava" osm="21562694 440427" type="node relation">Jihlava</link>, and 109 km (68 mi) south-east of <link wikipedia="Prague" osm="1601837931 298839807 435514 439840 439841" type="node way relation relation relation">Prague</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_007" wikipedia="Žebrák" osm="1600665502 425443 441983" type="node relation relation">
+      <p id="GL721_007_001" num_links="2">Žebrák (Czech pronunciation: [ˈʒɛbraːk]) is a town in the <link wikipedia="Central_Bohemian_Region" osm="435515 442397" type="relation relation">Central Bohemian Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. It has around 2,100 inhabitants. Village Sedlec is administrative part of Žebrák.
+
+</p>
+    </entity>
+    <entity id="GL721_008" wikipedia="Žebrák_Castle" osm="1356866" type="relation">
+      <p id="GL721_008_001" num_links="6">Žebrák Castle lies in the <link wikipedia="Central_Bohemian_Region" osm="435515 442397" type="relation relation">Central Bohemian Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. More accurately, it is in the <link wikipedia="Beroun_District" osm="442335" type="relation">Beroun District</link> above the village of <link wikipedia="Točník" osm="1600665518 425791 441014" type="node relation relation">Točník</link> and 2 kilometres (1.2 mi) from the village of <link wikipedia="Žebrák" osm="1600665502 425443 441983" type="node relation relation">Žebrák</link>. It was built by the Zajíc family. The two castles, <link wikipedia="Točník_Castle" osm="39894870" type="way">Točník</link> and Žebrák, make up a picturesque "couple," standing almost right next to each other.
+
+</p>
+      <p id="GL721_008_002" num_links="2">The castle was built in the second half of the 13th century by Oldřich Zajíc III, but the Zajíc family soon moved elsewhere and sold the castle to the king. In 1336, the house of Luxembourg acquired Žebrák and in 1346, Jindřich of the Luxembourg house started renovating it.[1] He later gave the castle to Karel IV, who became the Holy Roman Emperor shortly afterwards. Karel's son Václav IV liked the castle very much, but after the large fire in 1395, he built a more strategically positioned castle above it. During the Hussite wars, the Hussite army unsuccessfully besieged Žebrák and Točník and then proceeded to burn down the towns <link wikipedia="Točník" osm="1600665518 425791 441014" type="node relation relation">Točník</link> and <link wikipedia="Hořovice" osm="1600665990 442329" type="node relation">Hořovice</link>. In 1532, another fire struck the castle, but this time, nobody bothered renovating it. In the year 1923, the castle was sold to the Czech Association of Tourists for 8000 crowns and now it belongs to the state.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_009" wikipedia="Žedno" osm="305761717" type="node">
+      <p id="GL721_009_001" num_links="3">Žedno is a village in the <link wikipedia="Čiovo" osm="3458523" type="relation">Čiovo</link> island, near <link wikipedia="Split,_Croatia" osm="1467604275 143822157 2826807" type="node way relation">Split</link>, <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link>.  It is situated on the top of Čiovo island.
+</p>
+    </entity>
+    <entity id="GL721_010" wikipedia="Žegrova" osm="4664750103" type="node">
+      <p id="GL721_010_001" num_links="2">Žegrova is a village in the municipality of <link wikipedia="Kuršumlija" osm="449750290" type="node">Kuršumlija</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 49 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_011" wikipedia="Žehra" osm="26036541" type="node">
+      <p id="GL721_011_001" num_links="3">Žehra (German: Schigra) is a village and municipality in the <link wikipedia="Spišská_Nová_Ves_District" osm="388193" type="relation">Spišská Nová Ves District</link> in the <link wikipedia="Košice_Region" osm="388272" type="relation">Košice Region</link> of central-eastern <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_012" wikipedia="Žeimelis" osm="272227633" type="node">
+      <p id="GL721_012_001" num_links="4">Žeimelis is a town in northern <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>, 40 km to the north from <link wikipedia="Pakruojis" osm="366632451 1598770" type="node relation">Pakruojis</link>, near the border with <link wikipedia="Latvia" osm="432425019 72594" type="node relation">Latvia</link>. It is a centre of an elderate. According to a census in 2011, Žeimelis had 953 residents.[1] Town of Žeimelis is a state-protected urbanistic monument. The town of Žeimelis has a Gothic town square with inns from the 18th and 19th centuries; the inns were adjusted for defensive needs as well. Žeimelis has museum of <link wikipedia="Semigallia" osm="1629678548 1775647" type="node relation">Semigallia</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_013" wikipedia="Žeimena" osm="8523581" type="relation">
+      <p id="GL721_013_001" num_links="7">The Žeimena River is a river in Aukštaitija, eastern <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>, and right tributary of <link wikipedia="Neris" osm="2824450" type="relation">Neris River</link>. Žeimena begins in Labanoras Forest and at Lake Žeimenys. Žeimena flows to the south passing <link wikipedia="Kaltanėnai" osm="196380792" type="node">Kaltanėnai</link> town, <link wikipedia="Švenčionėliai" osm="196378748 1223718" type="node relation">Švenčionėliai</link> city, and <link wikipedia="Pabradė" osm="196374894 2657360" type="node relation">Pabradė</link> city. Its confluence with Neris is located near the border of <link wikipedia="Švenčionys_District_Municipality" osm="967318" type="relation">Švenčionys</link> and <link wikipedia="Vilnius_District_Municipality" osm="977316" type="relation">Vilnius districts</link>. The main tributaries of Žeimena are Lakaja, Saria, Mera, Kiauna, Luknelė and Jusinė.
+</p>
+    </entity>
+    <entity id="GL721_014" wikipedia="Žeimiai_(Varėna)" osm="2839828497" type="node">
+      <p id="GL721_014_001" num_links="5">Žeimiai is a village in <link wikipedia="Varėna_District_Municipality" osm="1076929" type="relation">Varėna district municipality</link>, in <link wikipedia="Alytus_County" osm="1076930" type="relation">Alytus County</link>, southeastern <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. According to the 2001 census, the village has a population of 70 people.[1] It is situated on the left bank of the <link wikipedia="Neman" osm="5078481 30072200 31341786 38674296 62387990 62387993 62387994 64391450 67486876 67490381 67601400 67601503 67604570 68577689 68577692 68577693 68577709 68577710 68577715 68692989 68868724 68868725 69209895 69209905 80346850 80346852 80346855 80346857 80346858 80346859 80346860 80346862 80346863 80346864 88731384 180084554 180084555 185568496 185568499 185568506 185568513 233908074 256837210 256837211 259972901 261433972 262807329 262807330 262807331 262807332 262807333 263508900 266292876 266292881 266292882 266292883 266292884 266292885 350279097 350767687 383939784 383939785 579499884 579499888 579499889 587303128 687726264 189775" type="way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way way relation">Neman River</link> in <link wikipedia="Dzūkija_National_Park" osm="7876911" type="relation">Dzūkija National Park</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_015" wikipedia="Žeimiai_Manor" osm="170623651" type="way">
+      <p id="GL721_015_001" num_links="2">Žeimiai Manor is a former residential manor in <link wikipedia="Žeimiai" osm="444340619 4803362" type="node relation">Žeimiai</link>, <link wikipedia="Jonava_District_Municipality" osm="1447848" type="relation">Jonava district</link>.[1][2] Currently it is under reconstruction.
+
+</p>
+    </entity>
+    <entity id="GL721_016" wikipedia="Žejno" osm="282025630" type="node">
+      <p id="GL721_016_001" num_links="4">Žejno (pronounced [ˈʒeːi̯nɔ]) is a settlement in the hills south of <link wikipedia="Čatež_ob_Savi" osm="134576363" type="node">Čatež ob Savi</link> in the <link wikipedia="Municipality_of_Brežice" osm="1685719" type="relation">Municipality of Brežice</link> in eastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area was traditionally part of Lower Carniola. It is now included with the rest of the municipality in the <link wikipedia="Lower_Sava_Statistical_Region" osm="1703401" type="relation">Lower Sava Statistical Region</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_017" wikipedia="Želebej" osm="3170252622" type="node">
+      <p id="GL721_017_001" num_links="3">Želebej (pronounced [ʒɛlɛˈbɛi̯] or [ˈʒeːlɛbɛi̯]) is a settlement on the left bank of the <link wikipedia="Kupa" osm="2535729" type="relation">Kolpa River</link> east of the town of Metlika in the White Carniola area of southeastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_018" wikipedia="Železnice" osm="440621" type="relation">
+      <p id="GL721_018_001" num_links="3">Železnice (German: Eisenstadtel) is a town and municipality in <link wikipedia="Jičín_District" osm="441987" type="relation">Jičín District</link> in the <link wikipedia="Hradec_Králové_Region" osm="442463" type="relation">Hradec Králové Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. The municipality covers an area of 13.01 km² and in 2006 it had a population of 1,206.
+
+</p>
+    </entity>
+    <entity id="GL721_019" wikipedia="Železniki,_Metlika" osm="3065400150" type="node">
+      <p id="GL721_019_001" num_links="4">Železniki (pronounced [ʒɛˈleːzniki]) is a small settlement north of <link wikipedia="Drašiči" osm="1241030825" type="node">Drašiči</link> in the Municipality of Metlika in the White Carniola area of southeastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>, right on the border with <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link>. The area is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_020" wikipedia="Železnička_Kolonija" osm="2071836204" type="node">
+      <p id="GL721_020_001" num_links="4">Železnička Kolonija is located in the southwestern section of the urban Zemun, on the Belgrade-<link wikipedia="Novi_Sad" osm="59735022 1776984" type="node relation">Novi Sad</link> railroad. It borders the neighborhood of <link wikipedia="Novi_Grad,_Zemun" osm="2071836207" type="node">Novi Grad</link> on the north and <link wikipedia="Kolonija_Zmaj" osm="2071836206" type="node">Kolonija Zmaj</link> on the south while in the east it extends into the neighborhood of <link wikipedia="Kalvarija,_Zemun" osm="2071836205" type="node">Kalvarija</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_021" wikipedia="Železno,_Trebnje" osm="4529764811" type="node">
+      <p id="GL721_021_001" num_links="4">Železno (pronounced [ʒɛˈleːznɔ]) is a small settlement northwest of <link wikipedia="Dobrnič" osm="2777255781" type="node">Dobrnič</link> in the <link wikipedia="Municipality_of_Trebnje" osm="1681522" type="relation">Municipality of Trebnje</link> in eastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area is part of the historical Lower Carniola region and is included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_022" wikipedia="Železná_(Beroun_District)" osm="441236" type="relation">
+      <p id="GL721_022_001" num_links="3">Železná is a village and municipality in <link wikipedia="Beroun_District" osm="442335" type="relation">Beroun District</link> in the <link wikipedia="Central_Bohemian_Region" osm="435515 442397" type="relation relation">Central Bohemian Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. The municipality covers an area of 4.01 square kilometres (1.55 sq mi) and as of 2009 it had a population of 272.[citation needed]
+
+</p>
+    </entity>
+    <entity id="GL721_023" wikipedia="Železná_Ruda" osm="1599445910 423821 438302" type="node relation relation">
+      <p id="GL721_023_001" num_links="4">Železná Ruda (literally "iron ore", Czech pronunciation: [ˈʒɛlɛznaː ˈruda], German: Markt Eisenstein) is a town in the <link wikipedia="Plzeň_Region" osm="442466" type="relation">Pilsen Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. It is located in the Šumava Mountains, close to the border with <link wikipedia="Bavaria" osm="473848012 2145268" type="node relation">Bavaria</link> and the German town <link wikipedia="Bayerisch_Eisenstein" osm="240063491 959173" type="node relation">Bayerisch Eisenstein</link>. It is one of the important sports and tourism centres of the Šumava Mountains. The German name of the town comes from The Middle Ages, when it was a market town. Its German population was expelled after 1945.
+
+</p>
+    </entity>
+    <entity id="GL721_024" wikipedia="Železník_(village)" osm="2321615" type="relation">
+      <p id="GL721_024_001" num_links="3">Železník is a village and municipality in <link wikipedia="Svidník_District" osm="388226" type="relation">Svidník District</link> in the <link wikipedia="Prešov_Region" osm="388271" type="relation">Prešov Region</link> of north-eastern <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>. The municipality lies at an altitude of 180 metres and covers an area of 5.97 square kilometres (2.31 square miles). It has a population of about 465 people. When it was under Hungarian rule it was called Vashegy, which literally means “Iron Hill”, and the mineral vashegyite is named after this village.[1][2][3]
+
+</p>
+    </entity>
+    <entity id="GL721_025" wikipedia="Železný_Brod" osm="1587389265 438957" type="node relation">
+      <p id="GL721_025_001" num_links="6">Železný Brod (Czech pronunciation: [ˈʒɛlɛzniː ˈbrot]; German: Eisenbrod) is a town in <link wikipedia="Liberec_Region" osm="442455" type="relation">Liberec Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. Located in <link wikipedia="Jablonec_nad_Nisou_District" osm="441190" type="relation">Jablonec nad Nisou District</link> on the <link wikipedia="Jizera_(river)" osm="3483617527" type="node">Jizera River</link>, the town is on a railway line connecting <link wikipedia="Pardubice" osm="1585113445 440145" type="node relation">Pardubice</link> and <link wikipedia="Liberec" osm="1587363366 439073" type="node relation">Liberec</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_026" wikipedia="Želiezovce" osm="26037308 2217916" type="node relation">
+      <p id="GL721_026_001" num_links="4">Želiezovce (Hungarian: Zselíz, (formerly) Zseliz (till 1895), Zeliz, Zeléz, German: Zelis (rare)) is a town in <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link> in the <link wikipedia="Nitra_Region" osm="388268" type="relation">Nitra Region</link> in the <link wikipedia="Levice_District" osm="388243" type="relation">Levice District</link>, near the <link wikipedia="Hron" osm="5535853" type="relation">Hron</link> river.
+
+</p>
+    </entity>
+    <entity id="GL721_027" wikipedia="Želino_Municipality" osm="2615107" type="relation">
+      <p id="GL721_027_001" num_links="2">Želino (Macedonian: Желино (help·info), Albanian: Zhelinë) is a municipality in northwestern part of the <link wikipedia="North_Macedonia" osm="424297810 53293" type="node relation">Republic of North Macedonia</link>. Želino is also the name of the village where the municipal seat is found. This municipality is part of the <link wikipedia="Polog_Statistical_Region" osm="2573935" type="relation">Polog Statistical Region</link>.
+
+</p>
+      <p id="GL721_027_002" num_links="6">The municipality borders <link wikipedia="Jegunovce_Municipality" osm="2608570" type="relation">Jegunovce Municipality</link> to the north, the <link wikipedia="Skopje" osm="170792214 32530510 6966465" type="node way relation">City of Skopje</link> to the east, <link wikipedia="Tetovo_Municipality" osm="2615182" type="relation">Tetovo Municipality</link> to the northwest, <link wikipedia="Brvenica_Municipality" osm="2615505" type="relation">Brvenica Municipality</link> to the west, <link wikipedia="Sopište_Municipality" osm="2460481" type="relation">Sopište Municipality</link> to the southeast, and <link wikipedia="Makedonski_Brod_Municipality" osm="2608091" type="relation">Makedonski Brod Municipality</link> to the south.
+
+</p>
+    </entity>
+    <entity id="GL721_028" wikipedia="Želivka" osm="7021679" type="relation">
+      <p id="GL721_028_001" num_links="4">The Želivka is a <link wikipedia="River" osm="26514405" type="way">river</link> in the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>, the left tributary of the <link wikipedia="Sázava_(river)" osm="1772080" type="relation">Sázava River</link>. It originates at the northern slope of the Troják Mountain at the elevation of 677 m. Above Sedlice Reservoir it bears the name Hejlovka. It enters the Sázava River near <link wikipedia="Zruč_nad_Sázavou" osm="302010172 441813" type="node relation">Zruč nad Sázavou</link>. It is 103.9 kilometres (64.6 mi) long, and its basin area is 1,188 square kilometres (459 sq mi).[1]
+</p>
+    </entity>
+    <entity id="GL721_029" wikipedia="Željava_Air_Base" osm="71379280" type="way">
+      <p id="GL721_029_001" num_links="5">Željava Air Base, situated on the border between <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link> and <link wikipedia="Bosnia_and_Herzegovina" osm="1983711862 2528142" type="node relation">Bosnia and Herzegovina</link> under the mountain Plješevica, near the city of <link wikipedia="Bihać" osm="1596886537 171155115" type="node way">Bihać</link>, Bosnia, was the largest underground airport and military air base in Yugoslavia, and one of the largest in <link wikipedia="Europe" osm="25871341" type="node">Europe</link>. The facilities are shared by the local governments of Bihać and <link wikipedia="Lika-Senj_County" osm="253484690 226465" type="way relation">Lika-Senj County</link> in Croatia.
+
+</p>
+    </entity>
+    <entity id="GL721_030" wikipedia="Željeznica_(Bosna)" osm="10048522" type="way">
+      <p id="GL721_030_001" num_links="2">The Željeznica is a river in <link wikipedia="Bosnia_and_Herzegovina" osm="1983711862 2528142" type="node relation">Bosnia and Herzegovina</link>, which rises at the foot of the <link wikipedia="Treskavica" osm="4138023" type="relation">Treskavica</link> Mountain. It has a number of rapids and whirlpools, including those of Turovi. Kazani is regarded the most attractive place in the canyon, where round hollows, "kettles", give the impression of boiling water. The kettles are about half to one meter deep and 0,30 to 0,70 cm wide in radius, and they are frequent in the riverbed.[1]
+</p>
+      <p id="GL721_030_002" num_links="4">The Željeznica river is one of the chief geographic features of the western Sarajevo field (Sarajevo polje). It flows through the municipalities Trnovo and Istočna Ilidža from south and eventually meets up with the Mala Bosna river, a stretch of the Bosna between its source at <link wikipedia="Vrelo_Bosne" osm="28784587" type="way">Vrelo Bosne</link> and Željeznica confluence, all near <link wikipedia="Ilidža" osm="10153567" type="way">Ilidža</link>, <link wikipedia="Sarajevo" osm="2021709163 190115339 2567380" type="node way relation">Sarajevo</link>. The Željeznica and the Mala Bosna form the <link wikipedia="Bosna_(river)" osm="6096801" type="relation">Bosna</link>.
+</p>
+    </entity>
+    <entity id="GL721_031" wikipedia="Željeznica_(Montenegro)" osm="172527774" type="way">
+      <p id="GL721_031_001" num_links="4">Željeznica is a river in <link wikipedia="Bar,_Montenegro" osm="49875186 8881697" type="node relation">Bar</link> municipality of <link wikipedia="Montenegro" osm="445970763 53296" type="node relation">Montenegro</link>. In Šušanj it flows into <link wikipedia="Adriatic_Sea" osm="9350128" type="relation">Adriatic sea</link>. It is a perennial river which has tributaries from mountains Small Rumija and Sutorman.[1] When Montenegrin army captured <link wikipedia="Bar,_Montenegro" osm="49875186 8881697" type="node relation">Bar</link> from the Ottoman Empire in 1878 the Berlin Congress set the border between Austria-Hungary and Kingdom of Montenegro at the river Željeznica.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_032" wikipedia="Željin" osm="1935321547" type="node">
+      <p id="GL721_032_001" num_links="2">Željin (Serbian Cyrillic: Жељин) is a mountain in central <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>, near the town of <link wikipedia="Vrnjačka_Banja" osm="416683959" type="node">Vrnjačka Banja</link>. It belongs to the Kopaonik mountain massif. Its highest peak Željin has an elevation of 1,785 meters above sea level.
+
+</p>
+    </entity>
+    <entity id="GL721_033" wikipedia="Željne" osm="3031584797" type="node">
+      <p id="GL721_033_001" num_links="3">Željne (pronounced [ˈʒɛːlnɛ]; in older sources also Sela,[2] German: Seele[2][3] or Selle[4]) is a village northeast of the town of <link wikipedia="Kočevje" osm="57099014" type="node">Kočevje</link> in southern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[5]
+
+</p>
+    </entity>
+    <entity id="GL721_034" wikipedia="Željuša" osm="2245482673" type="node">
+      <p id="GL721_034_001" num_links="2">Željuša is a village in the municipality of <link wikipedia="Dimitrovgrad,_Serbia" osm="470377833" type="node">Dimitrovgrad</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 1394 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_035" wikipedia="Želmanovce" osm="2321585" type="relation">
+      <p id="GL721_035_001" num_links="3">Želmanovce (Hungarian: Zsálmány) is a village and municipality in <link wikipedia="Svidník_District" osm="388226" type="relation">Svidník District</link> in the <link wikipedia="Prešov_Region" osm="388271" type="relation">Prešov Region</link> of north-eastern <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>. It lies at an elevation of 238 metres (781 ft), and covers an area of 4.65 square kilometres (1.80 sq mi). Its population is about 340 people.
+
+</p>
+    </entity>
+    <entity id="GL721_036" wikipedia="Želodnik" osm="608642188" type="node">
+      <p id="GL721_036_001" num_links="2">Želodnik (pronounced [ʒɛˈloːdnik]) is a small settlement northeast of <link wikipedia="Domžale" osm="56699213" type="node">Domžale</link> in the Upper Carniola region of <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_037" wikipedia="Želva" osm="850791713 2629193" type="node relation">
+      <p id="GL721_037_001" num_links="3">Želva (Polish: Pozelwa) is a town in <link wikipedia="Ukmergė_District_Municipality" osm="1027570" type="relation">Ukmergė district municipality</link>, <link wikipedia="Vilnius_County" osm="977317" type="relation">Vilnius County</link>, east <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. According to the Lithuanian census of 2011, the town has a population of 457 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_038" wikipedia="Žemaitija_National_Park" osm="7876910" type="relation">
+      <p id="GL721_038_001" num_links="4">Samogitia National Park or Žemaitija National Park is a national park in <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. It is situated on the Samogitian Highlands, 45 km from the <link wikipedia="Baltic_Sea" osm="305640277" type="node">Baltic Sea</link>. Lakes cover more than 7% of its territory. <link wikipedia="Lake_Plateliai" osm="1107343" type="relation">Lake Plateliai</link> (12.05 km², 47 m depth) is the largest lake. The town of <link wikipedia="Plateliai" osm="66838626" type="node">Plateliai</link>, situated on the shore of the lake, is the seat of the park's administration and a popular tourist destination.
+
+</p>
+    </entity>
+    <entity id="GL721_039" wikipedia="Žemaitkiemis" osm="803264795" type="node">
+      <p id="GL721_039_001" num_links="3">Žemaitkiemis (literally: Garden of Samogitians; Polish: Żmujdki) is a town in <link wikipedia="Ukmergė_District_Municipality" osm="1027570" type="relation">Ukmergė district</link>, <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. It is located 17 kilometres (11 mi) north-east of <link wikipedia="Ukmergė" osm="33698686 2413426" type="node relation">Ukmergė</link>. The Neo-Baroque Church of Saint Casimir was built in 1902.[1] According to the 2011 census, the town has a population of 261 people.[2]
+</p>
+    </entity>
+    <entity id="GL721_040" wikipedia="Žemaitėliai" osm="2367600870" type="node">
+      <p id="GL721_040_001" num_links="2">Žemaitėliai (formerly known as Russian: Митрофановка; Russian: Жемайтеляй) is a village in <link wikipedia="Vilnius_District_Municipality" osm="977316" type="relation">Vilnius District Municipality</link>, <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link> inhabited by Russians Pomorian Old Believers. According to the 2011 census, it had population of 21.[1]
+
+</p>
+      <p id="GL721_040_002" num_links="2">Žemaitėliai village (known as Mitrophanovka then) with a community of Old Believers was established not later than 1876. A church was built in 1928, a cemetery and a library (with 285 books in 1936) established. Local Old Believers were mostly wealthy farmers (owners of 18–25 ha plots of land), masons, joiners, freelance workers. The community was hit by <link wikipedia="World_War_II" osm="6235875594 7783040" type="node relation">World War II</link> and Soviet rule, when men were taken to the Red Army and some families deported to Siberia. In 1950, there were 45 families of Old Believers, but because of strong USSR anti-religious campaigns and propaganda of atheism as well as urbanization, the community shrank to only 10 families in 1997. After 1990, local church was restored. During the holidays, Old Believers from nearby <link wikipedia="Paberžė" osm="307747170 2410245" type="node relation">Paberžė</link>, Anavilis, Purnuškės, Akmena, Visalaukė villages gather in Žemaitėliai. A community house was built in 2014. There is an Old Believers church in Akmena village, located some 10 kilometres (6.2 mi) from Žemaitėliai.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_041" wikipedia="Žemaičių_Kalvarija_eldership" osm="3613325" type="relation">
+      <p id="GL721_041_001" num_links="4">Žemaičių Kalvarija eldership (Lithuanian: Žemaičių Kalvarijos seniūnija) is an eldership in <link wikipedia="Plungė_District_Municipality" osm="1360452" type="relation">Plungė District Municipality</link>, <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link> to the northeast from <link wikipedia="Plungė" osm="32444802 1711760" type="node relation">Plungė</link>. The administrative center is <link wikipedia="Žemaičių_Kalvarija" osm="812892449 7082710" type="node relation">Žemaičių Kalvarija</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_042" wikipedia="Žemaičių_Naumiestis" osm="448593638" type="node">
+      <p id="GL721_042_001" num_links="5">Žemaičių Naumiestis (Polish: Nowe Miasto) is a town in <link wikipedia="Klaipėda_County" osm="1189583" type="relation">Klaipėda county</link>, <link wikipedia="Šilutė_District_Municipality" osm="1203041" type="relation">Šilutė district municipality</link> in western <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>, between <link wikipedia="Klaipėda" osm="27193094 1713458" type="node relation">Klaipėda</link> and <link wikipedia="Kaliningrad_Oblast" osm="516618494 103906" type="node relation">Kaliningrad Oblast</link>. The rivers Šustis, Šelmuo and Lendra flow through it.
+</p>
+    </entity>
+    <entity id="GL721_043" wikipedia="Žemoji_Panemunė" osm="1758161725" type="node">
+      <p id="GL721_043_001" num_links="2">Žemoji Panemunė is a small town in <link wikipedia="Marijampolė_County" osm="974211" type="relation">Marijampolė County</link>, in southwestern <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. According to the 2011 census, the town has a population of 64 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_044" wikipedia="Ženklava" osm="1601460617 437548" type="node relation">
+      <p id="GL721_044_001" num_links="3">The German-speaking carpenter and itinerant evangelist Christian David was born here. After 1722 he led many secret Protestants from the Nový Jičín (Neutitschein) District to safety in Germany, building in <link wikipedia="Saxony" osm="62467" type="relation">Saxony</link> the town of <link wikipedia="Herrnhut" osm="130214359 418713 418716" type="node relation relation">Herrnhut</link> on the estate of Count von <link wikipedia="Nicolaus_Zinzendorf" osm="761422620" type="node">Zinzendorf</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_045" wikipedia="Žepa" osm="2656291813" type="node">
+      <p id="GL721_045_001" num_links="3">Žepa (Serbian Cyrillic: Жепа) is a village located in the municipality of Rogatica, <link wikipedia="Republika_Srpska" osm="681332925 2528145" type="way relation">Republika Srpska</link>, <link wikipedia="Bosnia_and_Herzegovina" osm="1983711862 2528142" type="node relation">Bosnia and Herzegovina</link>. As of 2013 census, it has a population of 133 inhabitants. It is situated northeast of Rogatica itself on the banks of short river with a same name, the Žepa river, which flows into the <link wikipedia="Drina" osm="2737965138 31030901 154794919 299630177 2249121 5624150" type="node way way way relation relation">Drina</link> river nearby, in a valley between the mountains Javor and Devetak.
+
+</p>
+    </entity>
+    <entity id="GL721_046" wikipedia="Žeravino" osm="2185711019" type="node">
+      <p id="GL721_046_001" num_links="6">Žeravino or Zheravino is a divided village in easternmost <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link> and westernmost <link wikipedia="Bulgaria" osm="424315709 186382" type="node relation">Bulgaria</link>. The Bulgarian half of the village is part of <link wikipedia="Kyustendil" osm="31058178 1978251" type="node relation">Kyustendil</link> municipality, <link wikipedia="Kyustendil_Province" osm="1739530" type="relation">Kyustendil Province</link>, whereas the Serbian part belongs to <link wikipedia="Bosilegrad" osm="1600101444" type="node">Bosilegrad</link> municipality, <link wikipedia="Pčinja_District" osm="2015385" type="relation">Pčinja District</link>.
+</p>
+    </entity>
+    <entity id="GL721_047" wikipedia="Žerađe" osm="3093840751" type="node">
+      <p id="GL721_047_001" num_links="2">Žerađe is a village in the municipality of <link wikipedia="Raška,_Serbia" osm="418640039" type="node">Raška</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 151 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_048" wikipedia="Žerjavin" osm="4977146203" type="node">
+      <p id="GL721_048_001" num_links="4">Žerjavin (pronounced [ʒɛɾjaˈʋiːn] or [ʒɛˈɾjaːʋin]) is a small settlement in the hills west of <link wikipedia="Dolenje_Mokro_Polje" osm="4797194697" type="node">Dolenje Mokro Polje</link> in the Municipality of <link wikipedia="Šentjernej" osm="1685748" type="relation">Šentjernej</link> in southeastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The entire municipality was traditionally part of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_049" wikipedia="Žermanice" osm="1601415912 437859" type="node relation">
+      <p id="GL721_049_001" num_links="4">Žermanice is a village in <link wikipedia="Frýdek-Místek_District" osm="442412" type="relation">Frýdek-Místek District</link>, <link wikipedia="Moravian-Silesian_Region" osm="435512 442461" type="relation relation">Moravian-Silesian Region</link>, <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. It lies on the shore of <link wikipedia="Žermanice_Dam" osm="28804891" type="way">Žermanice Dam</link>, in the historical region of Cieszyn Silesia.
+
+</p>
+    </entity>
+    <entity id="GL721_050" wikipedia="Žermanice_Dam" osm="28804891" type="way">
+      <p id="GL721_050_001" num_links="4">Žermanice Dam (Czech: Žermanická přehrada, Vodní nádrž Žermanice) is a water reservoir and dam near <link wikipedia="Žermanice" osm="1601415912 437859" type="node relation">Žermanice</link>, <link wikipedia="Moravian-Silesian_Region" osm="435512 442461" type="relation relation">Moravian-Silesian Region</link>, <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. The dam is built on the <link wikipedia="Lučina_(river)" osm="7041619" type="relation">Lučina River</link> and has a surface of 2.48 km². It was constructed from 1951-1958.
+</p>
+      <p id="GL721_050_002" num_links="6">Nearby villages of <link wikipedia="Dolní_Domaslavice" osm="437873" type="relation">Dolní Domaslavice</link>, <link wikipedia="Lučina_(Frýdek-Místek_District)" osm="321808777 437900" type="node relation">Lučina</link>, <link wikipedia="Soběšovice" osm="1432611343 436981" type="node relation">Soběšovice</link>, <link wikipedia="Žermanice" osm="1601415912 437859" type="node relation">Žermanice</link>, as well as the dam are a popular spots for water sports and other recreational activities. The dam is also used to supply water for factories in <link wikipedia="Ostrava" osm="1601523251 437354" type="node relation">Ostrava</link> and <link wikipedia="Paskov" osm="1601416028 437903" type="node relation">Paskov</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_051" wikipedia="Žeželj_Bridge" osm="543329052" type="way">
+      <p id="GL721_051_001" num_links="5">Žeželj Bridge (Serbian: Жежељев мост, romanized: Žeželjev most) is a <link wikipedia="Tied-arch_bridge" osm="176511620" type="way">tied-arch bridge</link> on <link wikipedia="Danube" osm="15942834 30463028 30853628 302098079 697612120 89652" type="way way way way way relation">Danube</link> river in <link wikipedia="Novi_Sad" osm="59735022 1776984" type="node relation">Novi Sad</link>, <link wikipedia="Vojvodina" osm="1279074" type="relation">Vojvodina</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. The bridge was originally built in 1961, only to be destroyed during the 1999 NATO bombing of Yugoslavia. The newly constructed bridge was opened in 2018.
+
+</p>
+      <p id="GL721_051_002" num_links="2">The original Žeželj Bridge (377 meters long) was a through arch bridge built between 1957 and 1961. It was designed by the prominent Yugoslavian civil engineer Branko Žeželj and constructed by Mostogradnja.[1][2] It connected the city area of <link wikipedia="Novi_Sad" osm="59735022 1776984" type="node relation">Novi Sad</link> and <link wikipedia="Petrovaradin" osm="59735024" type="node">Petrovaradin</link>. During its existence, it served as part of an international railway line and as a transit road through Novi Sad.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_052" wikipedia="Žiar_nad_Hronom" osm="26038430 2261483" type="node relation">
+      <p id="GL721_052_001" num_links="3">It is located in the Žiar Basin, on the <link wikipedia="Hron" osm="5535853" type="relation">Hron</link> river, around 40 km from <link wikipedia="Banská_Bystrica" osm="26037873 2265296" type="node relation">Banská Bystrica</link> and 170 km from <link wikipedia="Bratislava" osm="530544342 1702499 3992676" type="node relation relation">Bratislava</link>. In addition to the main settlement with in 1969 annexed Horné Opatovce village, the town also has "parts" of Šášovské Podhradie (annexed 1971). Žiar nad Hronom district was named after this city. Average year temperature is 8 °C, with often rainfall.
+
+</p>
+    </entity>
+    <entity id="GL721_053" wikipedia="Žibininkai" osm="886323615 7295115" type="node relation">
+      <p id="GL721_053_001" num_links="2">Žibininkai is a village in <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. It is located in the Kretinga municipality, 4 km northeast of the Baltic Sea resort <link wikipedia="Palanga" osm="33775541 1970099" type="node relation">Palanga</link>.
+</p>
+    </entity>
+    <entity id="GL721_054" wikipedia="Židikai" osm="1832823139" type="node">
+      <p id="GL721_054_001" num_links="3">Židikai (Samogitian: Žėdėkā) is a town in <link wikipedia="Mažeikiai_District_Municipality" osm="1211023" type="relation">Mažeikiai district municipality</link>, <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. It is located 21 km west of <link wikipedia="Mažeikiai" osm="420579738 2102240598 2629694" type="node node relation">Mažeikiai</link>. Židikai is the centre of Židikai elderate. Židikai's Jewish community perished in World War II. However, the village progressed during the Soviet era and is regarded as an urban monument. It is known for being the home of Marija Pečkauskaitė – Šatrijos Ragana, a famous Lithuanian writer (1877–1930).
+
+</p>
+    </entity>
+    <entity id="GL721_055" wikipedia="Židovar" osm="1583160082" type="node">
+      <p id="GL721_055_001" num_links="2">Židovar is an archeological site[1] and settlement near <link wikipedia="Vršac" osm="1340352822" type="node">Vršac</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_056" wikipedia="Židovice_(Jičín_District)" osm="440657" type="relation">
+      <p id="GL721_056_001" num_links="5">Židovice is a village and municipality in <link wikipedia="Jičín_District" osm="441987" type="relation">Jičín District</link> in the <link wikipedia="Hradec_Králové_Region" osm="442463" type="relation">Hradec Králové Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. It is located 19 kilometres (12 mi) south of <link wikipedia="Jičín" osm="1586676512 3914020734 439917" type="node node relation">Jičín</link> and 68 kilometres (42 mi) east of <link wikipedia="Prague" osm="1601837931 298839807 435514 439840 439841" type="node way relation relation relation">Prague</link>.
+</p>
+    </entity>
+    <entity id="GL721_057" wikipedia="Žiežmariai" osm="1237277752 2431001" type="node relation">
+      <p id="GL721_057_001" num_links="3">Žiežmariai (pronunciation (help·info)) (Polish: Żyżmory) is a city in the <link wikipedia="Kaišiadorys_District_Municipality" osm="1518453" type="relation">Kaišiadorys district municipality</link>, <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. It is located 6 km (3.7 mi) south of <link wikipedia="Kaišiadorys" osm="104550533 3479249" type="node relation">Kaišiadorys</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_058" wikipedia="Žihovo_Selo" osm="1826073136" type="node">
+      <p id="GL721_058_001" num_links="4">Žihovo Selo (pronounced [ˈʒiːxɔʋɔ ˈsɛːlɔ]; Slovene: Žihovo selo) is a settlement on the right bank of the <link wikipedia="Krka_(Sava)" osm="2196282" type="relation">Krka</link> River in the municipality of <link wikipedia="Novo_Mesto" osm="57074435" type="node">Novo Mesto</link> in southeastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_059" wikipedia="Žikava" osm="2209897" type="relation">
+      <p id="GL721_059_001" num_links="3">Žikava is a village and municipality in <link wikipedia="Zlaté_Moravce_District" osm="388217" type="relation">Zlaté Moravce District</link> of the <link wikipedia="Nitra_Region" osm="388268" type="relation">Nitra Region</link>, in western-central <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>. In 2011 it had a population of 514 inhabitants.
+
+</p>
+    </entity>
+    <entity id="GL721_060" wikipedia="Žilina" osm="26037035 1859537" type="node relation">
+      <p id="GL721_060_001" num_links="5">Žilina (Slovak pronunciation: [ˈʒilina]; German: Sillein, [ziˈlaɪ̯n] or [ˈzɪlaɪ̯n]; Hungarian: Zsolna [ˈʒolnɒ]; Polish: Żylina [ʒɨˈlina], names in other languages) is a city in north-western <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>, around 200 kilometres (120 mi) from the capital <link wikipedia="Bratislava" osm="530544342 1702499 3992676" type="node relation relation">Bratislava</link>, close to both the Czech and Polish borders. It is the fourth largest city of Slovakia with a population of approximately 80,000, an important industrial center, the largest city on the <link wikipedia="Váh" osm="3509398" type="relation">Váh</link> river, and the seat of a kraj (<link wikipedia="Žilina_Region" osm="388269" type="relation">Žilina Region</link>) and of an okres (<link wikipedia="Žilina_District" osm="388256" type="relation">Žilina District</link>). It belongs to the Upper Váh region of tourism.
+
+</p>
+    </entity>
+    <entity id="GL721_061" wikipedia="Žilina_Airport" osm="87416895" type="way">
+      <p id="GL721_061_001" num_links="3">Žilina Airport (IATA: ILZ, ICAO: LZZI) is an airport serving <link wikipedia="Žilina" osm="26037035 1859537" type="node relation">Žilina</link>, <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>. It is located near the village of <link wikipedia="Dolný_Hričov" osm="1859288" type="relation">Dolný Hričov</link>, approximately 10 km west of Žilina itself. The airport is used for both international and domestic flights, as well for private flights, amateur sport flights, air ambulance flights and other special flights. It also serves as primary training airport for students of air transport-related majors at the University of Žilina.
+
+</p>
+    </entity>
+    <entity id="GL721_062" wikipedia="Žilina_District" osm="388256" type="relation">
+      <p id="GL721_062_001" num_links="3">Žilina District (Slovak: Okres Žilina) is an okres (district) of the <link wikipedia="Žilina_Region" osm="388269" type="relation">Žilina Region</link> in north-western <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>. The district was first established in 1923. Its present borders date from 1996. The heart of the district is the <link wikipedia="Váh" osm="3509398" type="relation">Váh</link> and Rajec river valleys. Urbanization has led to the district's becoming one of Slovakia's most highly developed areas.
+
+</p>
+    </entity>
+    <entity id="GL721_063" wikipedia="Žilina_Region" osm="388269" type="relation">
+      <p id="GL721_063_001" num_links="2">The Žilina Region (Slovak: Žilinský kraj; Polish: Kraj żyliński) is one of the eight Slovak administrative regions and consists of 11 districts (okresy) and 315 municipalities, from which 18 have a town status. The region was established in 1923, however, in its present borders exists from 1996. It is a more industrial region with several large towns. <link wikipedia="Žilina" osm="26037035 1859537" type="node relation">Žilina</link> is the region administrative center and there is a strong cultural environment in <link wikipedia="Martin,_Slovakia" osm="26036064 2183317" type="node relation">Martin</link>.
+
+</p>
+      <p id="GL721_063_002" num_links="27">It is located in northern <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link> and has an area of 6,804 km² and a population of 688,851 (2011). The whole area is mountainous, belonging to the Western <link wikipedia="Carpathian_Mountains" osm="3792096344" type="node">Carpathians</link>. Some of the mountain ranges in the region include Javorníky, the <link wikipedia="Malá_Fatra" osm="1934497" type="relation">Lesser Fatra</link> and the <link wikipedia="Veľká_Fatra" osm="1934534" type="relation">Greater Fatra</link> in the west, <link wikipedia="Orava_Magura" osm="5472139684 1934504" type="node relation">Oravská Magura</link>, Chočské vrchy, Low Tatras and Western Tatras in the east. Whole area belongs to the <link wikipedia="Váh" osm="3509398" type="relation">Váh</link> river basin. Some of its left tributaries are <link wikipedia="Turiec_(Váh)" osm="5581331" type="relation">Turiec</link> and <link wikipedia="Rajčanka" osm="5571117" type="relation">Rajčanka</link> rivers and its right tributaries <link wikipedia="Belá_(river)" osm="5547929" type="relation">Belá</link>, <link wikipedia="Orava_(river)" osm="5540580" type="relation">Orava</link> and <link wikipedia="Kysuca" osm="54366840 77459581 172133488 172133494 182622821 182622822 182622823 217900658 217900659 5541943" type="way way way way way way way way way relation">Kysuca</link>. National parks on the region's territory are the <link wikipedia="Malá_Fatra_National_Park" osm="6757022" type="relation">Lesser</link>, <link wikipedia="Veľká_Fatra_National_Park" osm="7216689" type="relation">Greater Fatra</link>, <link wikipedia="Low_Tatras_National_Park" osm="2827630" type="relation">Low Tatras</link> and <link wikipedia="Tatra_National_Park,_Slovakia" osm="6757027" type="relation">Tatra</link>; landscape protected areas are <link wikipedia="Strážov_Mountains_Protected_Landscape_Area" osm="6757206" type="relation">Strážovské vrchy</link>, <link wikipedia="Kysuce_Protected_Landscape_Area" osm="6897966" type="relation">Kysuce</link> and <link wikipedia="Horná_Orava_Protected_Landscape_Area" osm="6897930" type="relation">Horná Orava</link>. The region borders <link wikipedia="Prešov_Region" osm="388271" type="relation">Prešov Region</link> in the east, <link wikipedia="Banská_Bystrica_Region" osm="388270" type="relation">Banská Bystrica Region</link> in the south, <link wikipedia="Trenčín_Region" osm="388267" type="relation">Trenčín Region</link> in the south-west and west, <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech</link> <link wikipedia="Zlín_Region" osm="442449" type="relation">Zlín Region</link> and <link wikipedia="Moravian-Silesian_Region" osm="435512 442461" type="relation relation">Moravian-Silesian</link> regions in the north-west and <link wikipedia="Poland" osm="432425060 49715" type="node relation">Polish</link> <link wikipedia="Silesian_Voivodeship" osm="505034126 224462" type="node relation">Silesian</link> and <link wikipedia="Lesser_Poland_Voivodeship" osm="504966405 224459" type="node relation">Lesser Poland</link> voivodeships in the north and north-east.
+
+</p>
+    </entity>
+    <entity id="GL721_064" wikipedia="Žilinci" osm="4671006886" type="node">
+      <p id="GL721_064_001" num_links="2">Žilinci is a village in the municipality of <link wikipedia="Brus" osm="1356177847" type="node">Brus</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 149 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_065" wikipedia="Žilinėliai" osm="3656641828" type="node">
+      <p id="GL721_065_001" num_links="4">The village is located in southeastern <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>, in the northern part of <link wikipedia="Varėna_District_Municipality" osm="1076929" type="relation">Varėna District Municipality</link>. It lies 14.75 kilometres (9.17 mi) north of the town of <link wikipedia="Varėna" osm="32441683 2409707" type="node relation">Varėna</link>, the seat of the municipality. <link wikipedia="Vilnius" osm="968952" type="relation">Vilnius</link> is 56.8 kilometres (35.3 mi) to the northeast. Lake Netečius is 2.6 kilometres (1.6 mi) to the north.[2][3]
+
+</p>
+    </entity>
+    <entity id="GL721_066" wikipedia="Žiljci" osm="4674468872" type="node">
+      <p id="GL721_066_001" num_links="2">Žiljci is a village in the municipality of <link wikipedia="Brus" osm="1356177847" type="node">Brus</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 427 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_067" wikipedia="Žimarice" osm="2887081464" type="node">
+      <p id="GL721_067_001" num_links="3">Žimarice (pronounced [ˈʒiːmaɾitsɛ]; in older sources also Žigmarice,[2] German: Schigmaritz[2]) is a settlement in the <link wikipedia="Municipality_of_Sodražica" osm="1681537" type="relation">Municipality of Sodražica</link> in southern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. It is made up of a number of smaller settlement clusters in the valley northwest of Sodražica. The area is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[3]
+
+</p>
+    </entity>
+    <entity id="GL721_068" wikipedia="Žipov" osm="2320205" type="relation">
+      <p id="GL721_068_001" num_links="3">Žipov (Hungarian: Sárosizsép) is a village and municipality in <link wikipedia="Prešov_District" osm="388255" type="relation">Prešov District</link> in the <link wikipedia="Prešov_Region" osm="388271" type="relation">Prešov Region</link> of eastern <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_069" wikipedia="Žiri" osm="3426274016" type="node">
+      <p id="GL721_069_001" num_links="3">Žiri (pronounced [ʒiˈɾiː] (listen) or [ˈʒiːɾi]; formerly also Žir,[2] locally Žier,[3] German: Sairach[2]) is a town in northwestern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. It is the administrative centre of the <link wikipedia="Municipality_of_Žiri" osm="1681531" type="relation">Municipality of Žiri</link>, created in 1994. Prior to this the town belonged administratively to the area of <link wikipedia="Škofja_Loka" osm="56742189" type="node">Škofja Loka</link>.[4]
+
+</p>
+    </entity>
+    <entity id="GL721_070" wikipedia="Žirje,_Croatia" osm="167247340" type="way">
+      <p id="GL721_070_001" num_links="3">Žirje (pronounced [ʒîːrjɛ]; Italian: Zuri; Latin: Zurium/Surium) is an island and a settlement in the <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatian</link> part of the <link wikipedia="Adriatic_Sea" osm="9350128" type="relation">Adriatic Sea</link>. It is situated in the <link wikipedia="Šibenik" osm="270442378 376938383" type="node way">Šibenik</link> archipelago, about 22 kilometres (14 miles) southwest of Šibenik, which makes it the most remote permanently inhabited island in the Šibenik archipelago.[2][3] Its area is 15.08 km2,[4] and it has a population of 103 (2011 census).[1] Its population is steadily decreasing (720 residents in 1953,[5] 207 residents in 1981,[5] and 124 residents in 2001[6]).
+</p>
+    </entity>
+    <entity id="GL721_071" wikipedia="Žirje,_Slovenia" osm="1783464959" type="node">
+      <p id="GL721_071_001" num_links="3">Žirje (pronounced [ˈʒiːɾjɛ]; Italian: Sirie) is a small village northeast of <link wikipedia="Povir" osm="842977169" type="node">Povir</link> in the <link wikipedia="Municipality_of_Sežana" osm="1675828" type="relation">Municipality of Sežana</link> in the Littoral region of <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_072" wikipedia="Žirmūnai_Bridge" osm="422271676" type="way">
+      <p id="GL721_072_001" num_links="6">Žirmūnai Bridge (Lithuanian: Žirmūnų tiltas) is a bridge across <link wikipedia="Neris" osm="2824450" type="relation">Neris River</link>, that connects <link wikipedia="Žirmūnai" osm="32332873" type="node">Žirmūnai</link> and <link wikipedia="Antakalnis" osm="32332874" type="node">Antakalnis</link> districts of <link wikipedia="Vilnius" osm="968952" type="relation">Vilnius</link>. This is a pier ferroconcrete bridge 181 meters (594 ft) long. It has three spans and four piers. The width between handrails is 20 meters (66 ft). The bridge is a 1964 project by <link wikipedia="Saint_Petersburg" osm="27490597 2050243275 337422" type="node node relation">Leningrad</link> institute "Promtransniiproject". It was built in 1965 by the Second <link wikipedia="Vilnius" osm="968952" type="relation">Vilnius</link> Bridge Construction Administration. In 1971 authors of the project headed by Solomon Gershanok and constructors were awarded the Council of Ministers Prize.
+
+</p>
+    </entity>
+    <entity id="GL721_073" wikipedia="Žirovnica,_Idrija" osm="2305955085" type="node">
+      <p id="GL721_073_001" num_links="3">Žirovnica (pronounced [ʒiˈɾoːu̯nitsa]; German: Scheraunitz[2]) is a small settlement in the valley of Žirovnica Creek, a tributary of the Poljane Sora River, south of <link wikipedia="Žiri" osm="3426274016" type="node">Žiri</link> in <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. Although it is easily accessible by road only from the Žiri side, which is in the Upper Carniola region of Slovenia, it actually lies in the <link wikipedia="Municipality_of_Idrija" osm="1675830" type="relation">Municipality of Idrija</link>[3] in the traditional Inner Carniola region.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_074" wikipedia="Žitava_(river)" osm="5538519" type="relation">
+      <p id="GL721_074_001" num_links="3">The Žitava (Hungarian: Zsitva) is a river in southern <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>. It is the left tributary of the river <link wikipedia="Nitra_(river)" osm="5536151" type="relation">Nitra</link>. It flows into the Nitra near <link wikipedia="Šurany" osm="26035833 2218570" type="node relation">Šurany</link>. It is 65.6 km (40.8 mi) long and its basin size is 907 km2 (350 sq mi).[1]:72 The old branch of the Žitava, Stará Žitava, branches off near Dolný Ohaj and flows into the old branch of the Nitra near Martovce.[1]:85
+
+</p>
+    </entity>
+    <entity id="GL721_075" wikipedia="Žitavce" osm="2210139" type="relation">
+      <p id="GL721_075_001" num_links="3">Žitavce  is a village and municipality in the <link wikipedia="Nitra_District" osm="388212 2210095" type="relation relation">Nitra District</link> in western central <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>, in the <link wikipedia="Nitra_Region" osm="388268" type="relation">Nitra Region</link>. [1]
+
+</p>
+    </entity>
+    <entity id="GL721_076" wikipedia="Žitkovica" osm="4246407902" type="node">
+      <p id="GL721_076_001" num_links="2">Žitkovica is a village in the municipality of <link wikipedia="Golubac" osm="475403829" type="node">Golubac</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 142 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_077" wikipedia="Žitni_Potok" osm="3184979111" type="node">
+      <p id="GL721_077_001" num_links="2">Žitni Potok is a village in the municipality of <link wikipedia="Prokuplje" osm="449625244" type="node">Prokuplje</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 592 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_078" wikipedia="Žitorađa" osm="2251131729" type="node">
+      <p id="GL721_078_001" num_links="2">Žitorađa (Serbian Cyrillic: Житорађа, pronounced [ʒîtorad͡ʑa]) is a village and municipality located in the <link wikipedia="Toplica_District" osm="2117109" type="relation">Toplica District</link> of the <link wikipedia="Southern_and_Eastern_Serbia" osm="2959529" type="relation">southern Serbia</link>. The municipality includes 30 settlements. According to the 2011 census, the population of the municipality is 16,368 inhabitants.
+
+</p>
+      <p id="GL721_078_002" num_links="3">Žitorađa is 35 km to the south-west from <link wikipedia="Niš" osm="100890898 473304237 2867621" type="node way relation">Niš</link>. It lies 10 km from Corridor 10, which connects Serbia with <link wikipedia="North_Macedonia" osm="424297810 53293" type="node relation">North Macedonia</link>, <link wikipedia="Greece" osm="432424989 192307" type="node relation">Greece</link> and further east.
+
+</p>
+    </entity>
+    <entity id="GL721_079" wikipedia="Žitorađe" osm="2206644845" type="node">
+      <p id="GL721_079_001" num_links="2">Žitorađe is a village in the municipality of <link wikipedia="Vladičin_Han" osm="1599253813" type="node">Vladičin Han</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 1339 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_080" wikipedia="Živica_(Požarevac)" osm="1628325421" type="node">
+      <p id="GL721_080_001" num_links="2">Živica (Serbian Cyrillic: Живица) is a village in the municipality of <link wikipedia="Požarevac" osm="1582764486" type="node">Požarevac</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 728 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_081" wikipedia="Živkovac" osm="3554765549" type="node">
+      <p id="GL721_081_001" num_links="2">Živkovac is located in the northern Šumadija region and it is the easternmost settlement in the municipality and of the City of Belgrade. It is situated on the Ralja river, on both the railway Belgrade-<link wikipedia="Požarevac" osm="1582764486" type="node">Požarevac</link> and the highway Belgrade-<link wikipedia="Niš" osm="100890898 473304237 2867621" type="node way relation">Niš</link>, 44 km southeast of Belgrade and 15 km south of the municipal seat of Grocka.
+</p>
+    </entity>
+    <entity id="GL721_082" wikipedia="Živkovo" osm="2239794398" type="node">
+      <p id="GL721_082_001" num_links="2">Živkovo is a village in the municipality of <link wikipedia="Leskovac" osm="185538499 2860164" type="node relation">Leskovac</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 669 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_083" wikipedia="Živogošće" osm="3170245550" type="node">
+      <p id="GL721_083_001" num_links="2">Živogošće (Italian: Svogoschia) is a tourist locality in southern Dalmatia, <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link>, located between <link wikipedia="Makarska" osm="73395399 37863777" type="node way">Makarska</link> and Drvenik. Famous soccer player Mate Điković was born in Zivogosce. He spent most of his playing career in Tiger Sharks and retired in 2012.
+
+</p>
+    </entity>
+    <entity id="GL721_084" wikipedia="Životice_(Havířov)" osm="1601422948" type="node">
+      <p id="GL721_084_001" num_links="4">Životice (help·info) (Polish: Żywocice, German: Zywotitz, formerly Ziwotitz) is a village in <link wikipedia="Karviná_District" osm="441200" type="relation">Karviná District</link>, <link wikipedia="Moravian-Silesian_Region" osm="435512 442461" type="relation relation">Moravian-Silesian Region</link>, <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. It was a separate municipality but after the expansion of the city of <link wikipedia="Havířov" osm="1601422954 436995" type="node relation">Havířov</link> created in 1955 it became administratively a part of this city in 1960. It has a population of 1,182 (2010).[1] It lies in the historical region of Cieszyn Silesia.
+</p>
+    </entity>
+    <entity id="GL721_085" wikipedia="Žiča" osm="1756193308" type="node">
+      <p id="GL721_085_001" num_links="2">Žiča (Serbian Cyrillic: Жича, pronounced [ʒîtʃa] or [ʒîːtʃa][1]) is an early 13th-century Serbian Orthodox monastery near <link wikipedia="Kraljevo" osm="353439335" type="node">Kraljevo</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. The monastery, together with the Church of the Holy Dormition, was built by the first King of Serbia, Stefan the First-Crowned and the first Head of the Serbian Church, Saint Sava.
+</p>
+    </entity>
+    <entity id="GL721_086" wikipedia="Žiče,_Domžale" osm="529602724" type="node">
+      <p id="GL721_086_001" num_links="3">Žiče (pronounced [ˈʒiːtʃɛ]; German: Schitsche[2]) is a small village east of <link wikipedia="Radomlje" osm="56750681" type="node">Radomlje</link> in the <link wikipedia="Municipality_of_Domžale" osm="1675866" type="relation">Municipality of Domžale</link> in the Upper Carniola region of <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>.[3]
+
+</p>
+    </entity>
+    <entity id="GL721_087" wikipedia="Žiškovec" osm="1258873900" type="node">
+      <p id="GL721_087_001" num_links="2">The village is administratively part of the wider area of <link wikipedia="Čakovec" osm="568674747 104292318" type="node way">Čakovec</link>, the county seat of Međimurje County, and is located around 7 kilometres north of the centre of the city. Between 1992 and 1997, it was part of the <link wikipedia="Vratišinec" osm="1165985613" type="node">Vratišinec</link> municipality. The population of Žiškovec in the 2011 census was 543.[1]
+</p>
+    </entity>
+    <entity id="GL721_088" wikipedia="Žiūrai_(Varėna)" osm="427585534" type="node">
+      <p id="GL721_088_001" num_links="4">Žiūrai is a village in <link wikipedia="Varėna_District_Municipality" osm="1076929" type="relation">Varėna district municipality</link>, in <link wikipedia="Alytus_County" osm="1076930" type="relation">Alytus County</link>, southeastern <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. It is situated on <link wikipedia="Ūla" osm="6092523" type="relation">Ūla River</link>. According to the 2001 census, the village has a population of 35 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_089" wikipedia="Žižavica" osm="1166983429" type="node">
+      <p id="GL721_089_001" num_links="2">Žižavica is a village in the municipality of <link wikipedia="Leskovac" osm="185538499 2860164" type="node relation">Leskovac</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 189 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_090" wikipedia="Žižkov" osm="428824" type="relation">
+      <p id="GL721_090_001" num_links="2">Žižkov is a cadastral district of <link wikipedia="Prague" osm="1601837931 298839807 435514 439840 439841" type="node way relation relation relation">Prague</link>, <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. Most of Žižkov lies in the municipal and administrative district of Prague 3, except for very small parts which are in Prague 8 and Prague 10. Prior to 1922, Žižkov was an independent city.
+</p>
+    </entity>
+    <entity id="GL721_091" wikipedia="Žižkov_Television_Tower" osm="2060618801 457404360 6616837" type="node way relation">
+      <p id="GL721_091_001" num_links="2">The Žižkov Television Tower (Czech: Žižkovský vysílač) is a unique transmitter tower built in <link wikipedia="Prague" osm="1601837931 298839807 435514 439840 439841" type="node way relation relation relation">Prague</link> between 1985 and 1992. Designed by the architect Václav Aulický and the structural engineer Jiří Kozák,[1] it stands high above the city's traditional skyline from its position on top of a hill in the district of <link wikipedia="Žižkov" osm="428824" type="relation">Žižkov</link>, from which it takes its name. The tower is an example of high-tech architecture.
+
+</p>
+    </entity>
+    <entity id="GL721_092" wikipedia="Žlebič,_Ribnica" osm="379646763 4605584610" type="node node">
+      <p id="GL721_092_001" num_links="5">Žlebič (pronounced [ʒlɛˈbitʃ]; German: Schlebitsch[2]) is a village in the <link wikipedia="Municipality_of_Ribnica" osm="1681536" type="relation">Municipality of Ribnica</link> in southern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The railway line from <link wikipedia="Ljubljana" osm="6968827 615385067" type="node way">Ljubljana</link> to <link wikipedia="Kočevje" osm="57099014" type="node">Kočevje</link> runs through the settlement. The area is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[3]
+
+</p>
+      <p id="GL721_092_002" num_links="2">During the Second World War, a number of civilians from Žlebič were murdered on 28 July 1942 and buried in the <link wikipedia="Ribnica,_Ribnica" osm="57099335" type="node">Žiglovica Cave Mass Grave</link> (Slovene: Grobišče Jama Žiglovica) in <link wikipedia="Ribnica,_Ribnica" osm="57099335" type="node">Ribnica</link>.[4]
+
+</p>
+    </entity>
+    <entity id="GL721_093" wikipedia="Žlebské_Chvalovice" osm="440141" type="relation">
+      <p id="GL721_093_001" num_links="2">Žlebské Chvalovice a village and municipality (obec) in the <link wikipedia="Pardubice_Region" osm="442460" type="relation">Pardubice Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. It has around 80 inhabitants.
+</p>
+    </entity>
+    <entity id="GL721_094" wikipedia="Žlibinai_eldership" osm="3613326" type="relation">
+      <p id="GL721_094_001" num_links="2">Žlibinai eldership (Lithuanian: Žlibinų seniūnija) is an eldership in <link wikipedia="Plungė_District_Municipality" osm="1360452" type="relation">Plungė District Municipality</link> to the east from <link wikipedia="Plungė" osm="32444802 1711760" type="node relation">Plungė</link>. The administrative center is Žlibinai.
+
+</p>
+    </entity>
+    <entity id="GL721_095" wikipedia="Žlkovce" osm="2205363" type="relation">
+      <p id="GL721_095_001" num_links="3">Žlkovce is a village and municipality in <link wikipedia="Hlohovec_District" osm="388194" type="relation">Hlohovec District</link> in the <link wikipedia="Trnava_Region" osm="388266" type="relation">Trnava Region</link> of western <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_096" wikipedia="Žlne" osm="1917433163" type="node">
+      <p id="GL721_096_001" num_links="2">Žlne is a village in the municipality of <link wikipedia="Knjaževac" osm="319343322" type="node">Knjaževac</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 161 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_097" wikipedia="Žlutice" osm="439517" type="relation">
+      <p id="GL721_097_001" num_links="3">Žlutice (Czech pronunciation: [ˈʒlucɪtsɛ]; German: Luditz) is a town and municipality in <link wikipedia="Karlovy_Vary_District" osm="440798" type="relation">Karlovy Vary District</link> in the <link wikipedia="Karlovy_Vary_Region" osm="442314" type="relation">Karlovy Vary Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. The municipality covers an area of 53.03 km² and as of 2007 it had a population of 2,653.
+
+</p>
+    </entity>
+    <entity id="GL721_098" wikipedia="Žminj" osm="1572275525" type="node">
+      <p id="GL721_098_001" num_links="4">Žminj (Italian: Gimino) is a small town in <link wikipedia="Istria" osm="8063578" type="relation">Istria</link>, <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link>, 15 km south of <link wikipedia="Pazin" osm="1837883660 181745867" type="node way">Pazin</link>. It has a population of 3,483, and was first mentioned in 1177 as a parish of the <link wikipedia="Poreč" osm="29909360 298256587" type="node way">Poreč</link> diocese.
+</p>
+      <p id="GL721_098_002" num_links="4">The town is located on a limestone hill between the <link wikipedia="Lim_(Croatia)" osm="9438641" type="relation">Lim</link> valley and the Raša valley, 355 meters above sea level. Its economy is based on farming and livestock breeding. Žminj is located at the intersection of regional roads to <link wikipedia="Pazin" osm="1837883660 181745867" type="node way">Pazin</link>, <link wikipedia="Kanfanar" osm="289936293" type="node">Kanfanar</link>, Svetvinčenat and <link wikipedia="Labin" osm="290854348 360503776" type="node way">Labin</link>. This unique part of Istria has a number of attractions - beautiful landscapes and remnants of cultural heritage from all ages (such as a tower Citadel in the old town).
+</p>
+    </entity>
+    <entity id="GL721_099" wikipedia="Žmuidzinavičius_Museum" osm="3298337942" type="node">
+      <p id="GL721_099_001" num_links="2">Žmuidzinavičius Museum, known as the Devils' Museum (Lithuanian: Velnių muziejus), is a museum in <link wikipedia="Kaunas" osm="27193090 1567544" type="node relation">Kaunas</link>, <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>, dedicated to collecting and exhibiting sculptures and carvings of devils from all over the world. The collection was started by artist Antanas Žmuidzinavičius (1876–1966), and a memorial museum was established in his house after his death. In 1966, the devil collection consisted of 260 sculptures but visitors began to leave their own devils as gifts to the museum.[1] In 1982, a three-story extension was built to house the expanding collection and, as of 2009, the museum's holdings had grown to 3,000 items.[2]
+</p>
+    </entity>
+    <entity id="GL721_100" wikipedia="Žovnek_Castle" osm="2097978366" type="node">
+      <p id="GL721_100_001" num_links="2">Žovnek Castle (Slovene: Žovnek, German: Sanneck) is a castle northeast of Braslovče, <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. It lies above <link wikipedia="Lake_Žovnek" osm="25878458" type="way">Lake Žovnek</link>. The Lords of Žovnek, later Counts of Celje, were named after the castle. The castle was first mentioned in 1278 as Castrum Sevnekke, and later as Sannegg.
+
+</p>
+    </entity>
+    <entity id="GL721_101" wikipedia="Žrnovo" osm="2234203567" type="node">
+      <p id="GL721_101_001" num_links="5">Žrnovo is a village on the island of <link wikipedia="Korčula" osm="6114785" type="relation">Korčula</link> in <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link>. Korčula is an island in the on the Dalmatian coast of the <link wikipedia="Adriatic_Sea" osm="9350128" type="relation">Adriatic Sea</link> and administratively belongs to the <link wikipedia="Dubrovnik-Neretva_County" osm="585975062 226750" type="way relation">Dubrovnik–Neretva County</link> of Croatia. It has a population of 1,308 residents.[1] The village is situated four kilometers west of the old <link wikipedia="Korčula_(town)" osm="311292989 194459157" type="node way">town of Korčula</link>,[2] on the D118 road.
+</p>
+    </entity>
+    <entity id="GL721_102" wikipedia="Žubejevo" osm="4218303111" type="node">
+      <p id="GL721_102_001" num_links="2">Žubejevo (pronounced [ʒuˈbɛːjɛʋɔ] or [-ˈbeː-]) is a small dispersed settlement above the Tuhinj Valley in the <link wikipedia="Municipality_of_Kamnik" osm="1675668" type="relation">Municipality of Kamnik</link> in the Upper Carniola region of <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_103" wikipedia="Žubina" osm="3105172046" type="node">
+      <p id="GL721_103_001" num_links="4">Žubina (pronounced [ˈʒuːbina]) is a small village in the <link wikipedia="Municipality_of_Trebnje" osm="1681522" type="relation">Municipality of Trebnje</link> in eastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. It lies north of <link wikipedia="Veliki_Gaber" osm="1278004075" type="node">Veliki Gaber</link>. The area is part of the historical Lower Carniola region. The municipality is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[2]
+</p>
+    </entity>
+    <entity id="GL721_104" wikipedia="Žukovac" osm="4265570606" type="node">
+      <p id="GL721_104_001" num_links="2">Žukovac is a village in the municipality of <link wikipedia="Knjaževac" osm="319343322" type="node">Knjaževac</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 114 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_105" wikipedia="Žukovo" osm="4023599851" type="node">
+      <p id="GL721_105_001" num_links="4">Žukovo (pronounced [ˈʒuːkɔʋɔ]) is a settlement in the hills north of <link wikipedia="Velike_Poljane,_Ribnica" osm="445411429" type="node">Velike Poljane</link> in the <link wikipedia="Municipality_of_Ribnica" osm="1681536" type="relation">Municipality of Ribnica</link> in southern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The entire municipality is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_106" wikipedia="Žuljana" osm="390960652" type="node">
+      <p id="GL721_106_001" num_links="2">Žuljana is a village on the <link wikipedia="Pelješac" osm="3753553" type="relation">Pelješac</link> peninsula in southern Dalmatia, <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link>. The population is 235 (census 2011).[1]
+</p>
+    </entity>
+    <entity id="GL721_107" wikipedia="Žulová" osm="1599276242 438668" type="node relation">
+      <p id="GL721_107_001" num_links="3">Žulová (until 1948 Frýdberk German: Friedberg) is a town in <link wikipedia="Jeseník_District" osm="440926" type="relation">Jeseník District</link>, in the <link wikipedia="Olomouc_Region" osm="442459" type="relation">Olomouc Region</link> of the Czech Republic, close to the border with <link wikipedia="Poland" osm="432425060 49715" type="node relation">Poland</link>.  From 1938 to 1945 it was one of the municipalities in Sudetenland. It has a population of 1284 .
+</p>
+      <p id="GL721_107_002" num_links="3">Žulová lies approximately 12 kilometres (7 mi) north-west of <link wikipedia="Jeseník" osm="1599276425 90577119 438766" type="node way relation">Jeseník</link>, 81 km (50 mi) north of <link wikipedia="Olomouc" osm="1599305717 437057" type="node relation">Olomouc</link>, and 193 km (120 mi) east of <link wikipedia="Prague" osm="1601837931 298839807 435514 439840 439841" type="node way relation relation relation">Prague</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_108" wikipedia="Žumberak,_Croatia" osm="629100998" type="way">
+      <p id="GL721_108_001" num_links="2">Žumberak is a village and a municipality in <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link> in the <link wikipedia="Zagreb_County" osm="614778147 226241" type="way relation">Zagreb County</link>. According to the 2011 census, there are 883 inhabitants, 98% of which are Croats.[1] Žumberak municipality covers an area of 110 km2 (42 sq mi). The municipal centre is located in the village of Kostanjevac.[2]
+</p>
+    </entity>
+    <entity id="GL721_109" wikipedia="Žumberk" osm="440143" type="relation">
+      <p id="GL721_109_001" num_links="2">Žumberk (German: Sonnenberg)[1] is a market town in the <link wikipedia="Pardubice_Region" osm="442460" type="relation">Pardubice Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. It has around 210 inhabitants.
+</p>
+    </entity>
+    <entity id="GL721_110" wikipedia="Žuniči" osm="2840410488" type="node">
+      <p id="GL721_110_001" num_links="4">Žuniči (pronounced [ˈʒuːnitʃi]; in older sources also Žuniče,[2] German: Schunitsche[2]) is a settlement on the left bank of the <link wikipedia="Kupa" osm="2535729" type="relation">Kolpa River</link> in the <link wikipedia="Municipality_of_Črnomelj" osm="1685747" type="relation">Municipality of Črnomelj</link> in the White Carniola area of southeastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[3]
+</p>
+    </entity>
+    <entity id="GL721_111" wikipedia="Župa_dubrovačka" osm="258878288" type="way">
+      <p id="GL721_111_001" num_links="2">Župa Dubrovačka is a municipality and a valley located in <link wikipedia="Dubrovnik-Neretva_County" osm="585975062 226750" type="way relation">Dubrovnik-Neretva County</link> in south-eastern <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link>. It has 8,331 inhabitants, 93% of which are Croats.
+</p>
+      <p id="GL721_111_002" num_links="4">Župa dubrovačka stretches between <link wikipedia="Dubrovnik" osm="1583747666 620727220" type="node way">Dubrovnik</link>, the old Ragusa in the west and <link wikipedia="Cavtat" osm="1583714171" type="node">Cavtat</link>, the ancient <link wikipedia="Epidaurus" osm="30110346 2185767" type="way relation">Epidaurus</link> in the east, between the settlements of Dubac and Plat. The three islands Supetar, Mrkan and Bobara anchored right in front of the bay protect it from the open sea and from the north the hilly slopes of the Upper Župa. Tourist resorts are clustered along the coast. Župa dubrovačka is underdeveloped municipality which is statistically classified as the First Category Area of Special State Concern by the <link wikipedia="Government_of_Croatia" osm="588147831" type="way">Government of Croatia</link>.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_112" wikipedia="Županja" osm="627868892" type="way">
+      <p id="GL721_112_001" num_links="3">Županja (Croatian pronunciation: [ʒǔpaɲa]) is a town in eastern Slavonia, <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link>, located 254 km east of <link wikipedia="Zagreb" osm="1551865419 226224 3168167 9095851" type="node relation relation relation">Zagreb</link>. It is administratively part of the <link wikipedia="Vukovar-Srijem_County" osm="295122204 222649" type="way relation">Vukovar-Srijem County</link>. It is inhabited by 12,090 people (2011).[4]
+</p>
+      <p id="GL721_112_002" num_links="9">Županja lies on the <link wikipedia="Sava" osm="1564720" type="relation">Sava</link> river opposite <link wikipedia="Bosnia_and_Herzegovina" osm="1983711862 2528142" type="node relation">Bosnia and Herzegovina</link>, and is the site of a border-crossing bridge with the town of <link wikipedia="Orašje" osm="506679896" type="node">Orašje</link> in <link wikipedia="Bosnia_and_Herzegovina" osm="1983711862 2528142" type="node relation">Bosnia and Herzegovina</link>. The <link wikipedia="A3_(Croatia)" osm="144768 4661859 4661860" type="relation relation relation">A3 highway</link> <link wikipedia="Zagreb" osm="1551865419 226224 3168167 9095851" type="node relation relation relation">Zagreb</link>-<link wikipedia="Slavonski_Brod" osm="1588925812 69228702" type="node way">Slavonski Brod</link>-<link wikipedia="Belgrade" osm="60571493 391994940 2728438" type="node way relation">Belgrade</link> passes north of it, and the city is also reachable by a local railroad from <link wikipedia="Vinkovci" osm="1588972606 627828045" type="node way">Vinkovci</link> as well as the state road D55. The 2011 census recorded 96.72% Croats in the municipality.[7]
+
+</p>
+    </entity>
+    <entity id="GL721_113" wikipedia="Županjac" osm="3421010994" type="node">
+      <p id="GL721_113_001" num_links="2">Županjac (Serbian Cyrillic: Жупањац) is a village in the municipality of <link wikipedia="Lazarevac" osm="561313083" type="node">Lazarevac</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 582 people.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_114" wikipedia="Župelevec" osm="3626381152" type="node">
+      <p id="GL721_114_001" num_links="4">Župelevec (pronounced [ʒupɛˈleːʋəts], German: Schupeleutz[2]) is a settlement in the <link wikipedia="Municipality_of_Brežice" osm="1685719" type="relation">Municipality of Brežice</link> in eastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>, close to the border with <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatia</link>. The area was traditionally part of Styria. It is now included with the rest of the municipality in the <link wikipedia="Lower_Sava_Statistical_Region" osm="1703401" type="relation">Lower Sava Statistical Region</link>.[3]
+
+</p>
+    </entity>
+    <entity id="GL721_115" wikipedia="Župetinci" osm="3440551219" type="node">
+      <p id="GL721_115_001" num_links="4">Župetinci (pronounced [ˈʒuːpɛtintsi]) is a settlement in the <link wikipedia="Municipality_of_Cerkvenjak" osm="1676358" type="relation">Municipality of Cerkvenjak</link> in northeastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. It lies in the Slovene Hills (Slovene: Slovenske gorice) in the valley of Župetinci Creek (Župetinski potok), a minor left tributary of the <link wikipedia="Pesnica_(river)" osm="8645744" type="relation">Pesnica River</link>. The area was part of the traditional region of Styria and is now included in the <link wikipedia="Drava_Statistical_Region" osm="1703668" type="relation">Drava Statistical Region</link>.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_116" wikipedia="Župeča_Vas" osm="3565250199" type="node">
+      <p id="GL721_116_001" num_links="5">Župeča Vas (pronounced [ʒuˈpeːtʃa ˈʋaːs]; Slovene: Župeča vas, German: Supetschendorf[2]) is a village on the right bank of the <link wikipedia="Krka_(Sava)" osm="2196282" type="relation">Krka River</link>, east of <link wikipedia="Cerklje_ob_Krki" osm="2911803263" type="node">Cerklje ob Krki</link> in the <link wikipedia="Municipality_of_Brežice" osm="1685719" type="relation">Municipality of Brežice</link> in eastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area was traditionally part of Lower Carniola. It is now included with the rest of the municipality in the <link wikipedia="Lower_Sava_Statistical_Region" osm="1703401" type="relation">Lower Sava Statistical Region</link>.[3]
+</p>
+    </entity>
+    <entity id="GL721_117" wikipedia="Župečja_Vas" osm="1221210756" type="node">
+      <p id="GL721_117_001" num_links="3">Župečja Vas (pronounced [ʒuˈpeːtʃja ˈʋaːs]; Slovene: Župečja vas) is a village in the <link wikipedia="Municipality_of_Kidričevo" osm="1676318" type="relation">Municipality of Kidričevo</link> in northeastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area is part of the traditional region of Styria. It is now included with the rest of the municipality in the <link wikipedia="Drava_Statistical_Region" osm="1703668" type="relation">Drava Statistical Region</link>.[2]
+</p>
+      <p id="GL721_117_002" num_links="2">The local <link wikipedia="Church_(building)" osm="253234529 6377990711 681499085" type="node node way">church</link> is dedicated to Saint Anthony the Hermit and belongs to the Parish of <link wikipedia="Lovrenc_na_Dravskem_Polju" osm="1221210702" type="node">Sveti Lovrenc</link>. It was built in 1910 in the Neo-Gothic style.[3]
+
+</p>
+    </entity>
+    <entity id="GL721_118" wikipedia="Župčany" osm="2320279" type="relation">
+      <p id="GL721_118_001" num_links="3">Župčany (Hungarian: Zsebefalva) is a village and municipality in <link wikipedia="Prešov_District" osm="388255" type="relation">Prešov District</link> in the <link wikipedia="Prešov_Region" osm="388271" type="relation">Prešov Region</link> of eastern <link wikipedia="Slovakia" osm="432425079 14296" type="node relation">Slovakia</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_119" wikipedia="Žurge" osm="3930297265" type="node">
+      <p id="GL721_119_001" num_links="2">Žurge (pronounced [ˈʒuːɾɡɛ]; German: Sürgern[2]) is a small village in the Municipality of Osilnica in southern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The area is part of the traditional region of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[3]
+</p>
+    </entity>
+    <entity id="GL721_120" wikipedia="Žuráň" osm="549089870" type="node">
+      <p id="GL721_120_001" num_links="2">Žuráň is a small hill (268 metres) near the village of <link wikipedia="Podolí_(Brno-Country_District)" osm="1601617021 436055 442510" type="node relation relation">Podolí</link> in the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. 
+</p>
+    </entity>
+    <entity id="GL721_121" wikipedia="Žut" osm="8837741" type="way">
+      <p id="GL721_121_001" num_links="5">Žut (pronounced [ʒûːt]) is an uninhabited island in the <link wikipedia="Croatia" osm="424311353 214885" type="node relation">Croatian</link> part of the <link wikipedia="Adriatic_Sea" osm="9350128" type="relation">Adriatic Sea</link>, in central Dalmatia. With an area of 14.83 km2 (5.73 sq mi)[1] it is the 28th largest island in Croatia and the second largest island in the <link wikipedia="Kornati" osm="8063774" type="relation">Kornati</link> archipelago, after <link wikipedia="Kornat" osm="6521955" type="relation">Kornat</link>. Although most of the archipelago, composed of 89 islands, islets and rocks, is included in the <link wikipedia="Kornati" osm="8063774" type="relation">Kornati National Park</link>, the island of Žut is not.
+</p>
+      <p id="GL721_121_002" num_links="2">Žut is located between the islands of <link wikipedia="Pašman" osm="2458616" type="relation">Pašman</link> and Kornat and its coastline is unusually long at 45.9 kilometres (28.5 miles), thanks to the large number of coves and bays.[2] The island's highest point is the Gubavac peak at 174 m (571 ft) <link wikipedia="Metres_above_sea_level" osm="4880802076" type="node">above sea level</link>.[3]
+</p>
+    </entity>
+    <entity id="GL721_122" wikipedia="Žutice" osm="3093840752" type="node">
+      <p id="GL721_122_001" num_links="2">Žutice is a village in the municipality of <link wikipedia="Raška,_Serbia" osm="418640039" type="node">Raška</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 224 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_123" wikipedia="Žuč" osm="4665107916" type="node">
+      <p id="GL721_123_001" num_links="2">Žuč is a village in the municipality of <link wikipedia="Kuršumlija" osm="449750290" type="node">Kuršumlija</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 172 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_124" wikipedia="Žučkovac" osm="3143840418" type="node">
+      <p id="GL721_124_001" num_links="2">Žučkovac is a village in the municipality of <link wikipedia="Sokobanja" osm="1918674245" type="node">Sokobanja</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the village has a population of 529 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_125" wikipedia="Žuželjica" osm="2216296197" type="node">
+      <p id="GL721_125_001" num_links="2">Žuželjica is a village in the municipality of <link wikipedia="Bujanovac" osm="1599387493" type="node">Bujanovac</link>, <link wikipedia="Serbia" osm="369137525 1741311 9088937" type="node relation relation">Serbia</link>. According to the 2002 census, the town has a population of 166 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_126" wikipedia="Žužemberk" osm="57101431" type="node">
+      <p id="GL721_126_001" num_links="5">Žužemberk (pronounced [ˈʒuːʒɛmbɛɾk]; German: Seisenberg), is a town located southeast of the Slovenian capital of <link wikipedia="Ljubljana" osm="6968827 615385067" type="node way">Ljubljana</link>. It is the seat of the <link wikipedia="Municipality_of_Žužemberk" osm="1681530" type="relation">Municipality of Žužemberk</link>. The area is part of the historical region of Lower Carniola. The municipality is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>. Žužemberk lies in the southern part of Carniola on the left bank of the <link wikipedia="Krka_(Sava)" osm="2196282" type="relation">Krka River</link> and is dominated by a medieval castle. The parish church was completely destroyed in <link wikipedia="World_War_II" osm="6235875594 7783040" type="node relation">World War II</link> and was rebuilt in recent years.
+
+</p>
+    </entity>
+    <entity id="GL721_127" wikipedia="Žvabovo" osm="3205850779" type="node">
+      <p id="GL721_127_001" num_links="4">Žvabovo (pronounced [ˈʒʋaːbɔʋɔ]; in older sources also Švabovo,[2] German: Schwabou[2]) is a small settlement west of <link wikipedia="Šmarje,_Šentjernej" osm="3075015887" type="node">Šmarje</link> in the Municipality of <link wikipedia="Šentjernej" osm="1685748" type="relation">Šentjernej</link> in southeastern <link wikipedia="Slovenia" osm="208592566 218657" type="node relation">Slovenia</link>. The entire municipality was traditionally part of Lower Carniola and is now included in the <link wikipedia="Southeast_Slovenia_Statistical_Region" osm="541729" type="relation">Southeast Slovenia Statistical Region</link>.[3]
+
+</p>
+    </entity>
+    <entity id="GL721_128" wikipedia="Žvaigždžiakalnis" osm="1697727097" type="node">
+      <p id="GL721_128_001" num_links="4">Žvaigždžiakalnis is a village in the <link wikipedia="Molėtai_District_Municipality" osm="1002203" type="relation">Molėtai district municipality</link>, in <link wikipedia="Utena_County" osm="966958" type="relation">Utena County</link>, eastern <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. According to the 2001 census, the village has a population of 4 people.[1] The village is located in a remote area 10 km south east from Suginčiai, in a peninsula at the western edge of the Lake Aisetas. Žvaigždžiakalnis is surrounded by forest and is part of the <link wikipedia="Labanoras_Regional_Park" osm="5968596" type="relation">Labanoras Regional Park</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_129" wikipedia="Žvejybos_uostas" osm="2320653808" type="node">
+      <p id="GL721_129_001" num_links="2">Žvejybos uostas (lit. Fishing Port) is a neighbourhood in southern <link wikipedia="Klaipėda" osm="27193094 1713458" type="node relation">Klaipėda</link>, the capital of Klaipėda County, <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>.[1] It shares borders with Gandrališkės, Dubysos, Baltijos, Poilsis to the east and Smeltė to the south.
+
+</p>
+    </entity>
+    <entity id="GL721_130" wikipedia="Žvingiai" osm="1260589461" type="node">
+      <p id="GL721_130_001" num_links="3">Žvingiai is a town in <link wikipedia="Šilalė_District_Municipality" osm="1518454" type="relation">Šilalė district municipality</link>, <link wikipedia="Tauragė_County" osm="1307305" type="relation">Tauragė County</link>, <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. According to the 2011 census, the town has a population of 195 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_131" wikipedia="Žvirgždaičiai" osm="763280554" type="node">
+      <p id="GL721_131_001" num_links="2">Žvirgždaičiai is a small town in <link wikipedia="Marijampolė_County" osm="974211" type="relation">Marijampolė County</link>, in southwestern <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. According to the 2011 census, the town has a population of 242 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_132" wikipedia="Žvėrynas" osm="32332864" type="node">
+      <p id="GL721_132_001" num_links="5">Žvėrynas (literally the menagerie) is one of the older neighborhoods and smallest elderships in <link wikipedia="Vilnius" osm="968952" type="relation">Vilnius</link>, <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. According to the 2011 census, 11,079 people live within its 2.6 km² area. It lies on the banks of the <link wikipedia="Neris" osm="2824450" type="relation">Neris</link> River, and is situated to the west of the <link wikipedia="Seimas" osm="1321376" type="relation">Lithuanian Parliament</link> building. The river surrounds it from three sides and isolates it from the city. On the other side of the river, to the northwest, lies <link wikipedia="Vingis_Park" osm="3662657" type="relation">Vingis Park</link>. Initially, it was a private out of town hunting area until the end of the 19th century, later it was developed as a resort and therefore many decorated wooden houses have survived from these times.[1]
+
+</p>
+      <p id="GL721_132_002" num_links="3">Originally the district belonged to the Grand duke Vytautas the Great, who established forest reserve there, and later to Radziwiłł family, who has built wooden hunting house in the area and maintained wild animals for hunting purposes (hence the name). In 1825, a summer house was built which later became the residence of the Governor General of the Vilna Governorate. At the very end of the 19th century, Žvėrynas became the property of Russian businessman Vasiliy Martinson who in turn sold individual tracts of land to the city's residents. In 1901, the resort town was incorporated into the city of Vilnius. It remained mostly residential with very few industrial enterprises. After Lithuania regained its independence in 1990, Žvėrynas became one of the most prestigious neighborhoods of the capital due to the proximity of Seimas, the number of embassies, <link wikipedia="Neris" osm="2824450" type="relation">Neris</link> river and the <link wikipedia="Vingis_Park" osm="3662657" type="relation">Vingis Park</link>. Žvėrynas has a number of government and educational institutions, finance and insurance companies, as well as health care institutions. Žvėrynas is the site of Vilnius' only kenesa. There are also Russian Orthodox <link wikipedia="Church_of_Our_Lady_of_the_Sign,_Vilnius" osm="36242889" type="way">Our Lady of the Sign</link> church (1899-1903) near Žvėrynas bridge (1907), Orthodox chapel (1871) near Vingis pedestrian bridge and Catholic church in the Northern part of the district, the later being not finished according to the project because of the World War I (façade towers and dome were never built). Žvėrynas is famous for its well preserved and maintained wooden architecture and interwar brick villas as well as modern architecture. There are more than a hundred wooden summer cottages and city villas, built mostly in 1890s-1910s. Compositors' modernist quarter of 16 villas, designed for leading Lithuanian musicians and a palace for concerts and various events, were built in the 1960s. Prestigious Jewish Sholem Aleichem Gymnasium is situated in Žvėrynas.
+
+</p>
+    </entity>
+    <entity id="GL721_133" wikipedia="Žygaičiai" osm="1814906558" type="node">
+      <p id="GL721_133_001" num_links="2">Žygaičiai is a small town in <link wikipedia="Tauragė_County" osm="1307305" type="relation">Tauragė County</link>, in western <link wikipedia="Lithuania" osm="424297773 72596" type="node relation">Lithuania</link>. According to the 2011 census, the town has a population of 542 people.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_134" wikipedia="Žyrmuny" osm="242989195 7509452" type="node relation">
+      <p id="GL721_134_001" num_links="3">Žyrmuny (Belarusian: Жырмуны, Russian: Жирмуны, romanized: Zhirmuny, Polish: Żyrmuny, Lithuanian: Žirmūnai) is an agrotown in the <link wikipedia="Voranava_District" osm="70737" type="relation">Voranava District</link>, <link wikipedia="Grodno_Region" osm="513125713 59275" type="node relation">Grodno Region</link> of <link wikipedia="Belarus" osm="249399300 59065" type="node relation">Belarus</link>, 16 kilometres from the Lithuania–Belarus border. 
+</p>
+    </entity>
+    <entity id="GL721_135" wikipedia="Žáravice" osm="440496" type="relation">
+      <p id="GL721_135_001" num_links="2">Žáravice is a small village in the <link wikipedia="Pardubice_Region" osm="442460" type="relation">Pardubice Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. It has around 140 inhabitants.
+
+</p>
+    </entity>
+    <entity id="GL721_136" wikipedia="Žďákov_Bridge" osm="23000418" type="way">
+      <p id="GL721_136_001" num_links="5">The Žďákov Bridge is a steel arch bridge that spans the <link wikipedia="Vltava" osm="1730536" type="relation">Vltava</link> between <link wikipedia="Orlík_nad_Vltavou" osm="437316" type="relation">Orlík nad Vltavou</link> and <link wikipedia="Kostelec_nad_Vltavou" osm="437384" type="relation">Kostelec nad Vltavou</link> in <link wikipedia="Písek_District" osm="441220" type="relation">Písek District</link>, <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>.  At the time of its completion in 1967, it was the longest arch bridge in Czechoslovakia and the supported arch bridge with the longest span in the world. 
+</p>
+    </entity>
+    <entity id="GL721_137" wikipedia="Žďár_nad_Sázavou" osm="1586412044 428066" type="node relation">
+      <p id="GL721_137_001" num_links="5">Žďár nad Sázavou (Czech pronunciation: [ˈʒɟaːr ˈnat saːzavou]; German: Saar) is a town in the <link wikipedia="Vysočina_Region" osm="442453" type="relation">Vysočina Region</link> of the <link wikipedia="Czech_Republic" osm="424313803 51684" type="node relation">Czech Republic</link>. It has approximately 21,000 inhabitants and is the administrative capital of the <link wikipedia="Žďár_nad_Sázavou_District" osm="441749" type="relation">Žďár nad Sázavou District</link>. The city is a prominent centre of tourism, as a cross country ski resort in winter and a popular destination for cycling and bathing in the summer. It is also situated on a major rail link between <link wikipedia="Prague" osm="1601837931 298839807 435514 439840 439841" type="node way relation relation relation">Prague</link> and <link wikipedia="Brno" osm="1601566699 438171" type="node relation">Brno</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_138" wikipedia="Žďár_nad_Sázavou_District" osm="441749" type="relation">
+      <p id="GL721_138_001" num_links="3">The district's landscape is very picturesque, consisting of a highland of rolling hills around the rivers <link wikipedia="Sázava_(river)" osm="1772080" type="relation">Sázava</link>, <link wikipedia="Oslava" osm="1957879" type="relation">Oslava</link>, Svratka and <link wikipedia="Chrudimka" osm="7021243" type="relation">Chrudimka</link>, covered by deep forests, lakes and fields.
+
+</p>
+    </entity>
+    <entity id="GL721_139" wikipedia="Əliabad,_Nakhchivan" osm="286934635" type="way">
+      <p id="GL721_139_001" num_links="3">Əliabad (also, Myasnikabad and Myasnikovabad) is a settlement and municipality in <link wikipedia="Nakhchivan_(city)" osm="171513871 2379566" type="node relation">Nakhchivan City</link>,  <link wikipedia="Nakhchivan_Autonomous_Republic" osm="186430" type="relation">Nakhchivan</link>, <link wikipedia="Azerbaijan" osm="424313675 364110" type="node relation">Azerbaijan</link>. It is located in the near of the Nakhchivan-Sharur highway, on the plain. Its population is busy with grain-growing, vegetable-growing and animal husbandry. There are secondary school, music school, library, club, kindergarten and a medical center in the settlement. In the center of the settlement was built the memorial complex of "Martyrs". It has a population of 9,495.[2]
+
+</p>
+    </entity>
+    <entity id="GL721_140" wikipedia="Əlinağılar" osm="5239005098" type="node">
+      <p id="GL721_140_001" num_links="5">Əlinağılar (also, Alinagylar) is a village and municipality in the <link wikipedia="Gadabay_District" osm="3764555" type="relation">Gadabay Rayon</link> of <link wikipedia="Azerbaijan" osm="424313675 364110" type="node relation">Azerbaijan</link>.  It has a population of 1,320.  The municipality consists of the villages of Əlinağılar and <link wikipedia="Arısu" osm="5239002435" type="node">Arısu</link> with which it essentially merges, along with nearby <link wikipedia="Miskinli,_Gadabay" osm="5238976035" type="node">Miskinli</link> and (across the river) <link wikipedia="Qalakənd" osm="5238971129" type="node">Qalakənd</link> to form one larger diffuse village.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_141" wikipedia="Ələhi" osm="6036790435" type="node">
+      <p id="GL721_141_001" num_links="3">Ələhi (also, Əlik, Alahi, Alaki, Allik, and Alyagi) is a village and municipality in the <link wikipedia="Ordubad_District" osm="3789858" type="relation">Ordubad Rayon</link> of <link wikipedia="Nakhchivan_Autonomous_Republic" osm="186430" type="relation">Nakhchivan</link>, <link wikipedia="Azerbaijan" osm="424313675 364110" type="node relation">Azerbaijan</link>, in the administrative unit of Bist village. It is located in the west of the Ordubad-Xurs highway, on the right bank of the Ayrichay river, on the foothill of the Gapyjyg mountain. Its population is busy with gardening, beekeeping, animal husbandry. There are incomplete secondary school, club, library, and a medical center in the village. It has a population of 132.[1] 
+
+</p>
+    </entity>
+    <entity id="GL721_142" wikipedia="ǀAi-ǀAis/Richtersveld_Transfrontier_Park" osm="2855710" type="relation">
+      <p id="GL721_142_001" num_links="5">The ǀAi-ǀAis/Richtersveld Transfrontier Park[clarification needed] is a peace park straddling the border between <link wikipedia="South_Africa" osm="424298167 87565 1252792" type="node relation relation">South Africa</link> and <link wikipedia="Namibia" osm="424311662 195266" type="node relation">Namibia</link>. It was formed in 2003 by combining the <link wikipedia="Namibia" osm="424311662 195266" type="node relation">Namibian</link> ǀAi-ǀAis Hot Springs Game Park and the <link wikipedia="South_Africa" osm="424298167 87565 1252792" type="node relation relation">South African</link> Richtersveld National Park. Most of the South African part of the park forms part of the buffer zone of the Richtersveld Cultural and Botanical Landscape World Heritage Site, which measures 5,920 square kilometres (2,290 sq mi).[2] The <link wikipedia="Fish_River_Canyon" osm="378658408 685904249 685904253 685904270 685904288 685904295 685904302 685904314 685904327 685904335 685904343 685904401 9517875" type="way way way way way way way way way way way way relation">Fish River Canyon</link> is located in the park, the largest canyon in Africa.[2] A Memorandum of Understanding was signed on 17 August 2003 by the presidents of South Africa and Namibia, which formalized the establishment of the park.[2]
+</p>
+    </entity>
+    <entity id="GL721_143" wikipedia="ǁKaras_Region" osm="2279557" type="relation">
+      <p id="GL721_143_001" num_links="6">The ǁKaras Region, also spelled ǃKaras Region,[5] is the southernmost and least densely populated of the 14 regions of <link wikipedia="Namibia" osm="424311662 195266" type="node relation">Namibia</link>; its capital is <link wikipedia="Keetmanshoop" osm="82260251 59965309" type="node way">Keetmanshoop</link>. The name assigned to the region reflects the prominence of the <link wikipedia="Great_Karas_Mountains" osm="5624020721" type="node">Karas mountain range</link> in its southern part. The ǁKaras region includes the magisterial districts of Keetmanshoop, <link wikipedia="Karasburg" osm="243653372" type="node">Karasburg</link>, <link wikipedia="Bethanie,_Namibia" osm="243779114" type="node">Bethanie</link>, and <link wikipedia="Lüderitz" osm="243660491" type="node">Lüderitz</link>.
+</p>
+    </entity>
+    <entity id="GL721_144" wikipedia="Șaeș_(river)" osm="19531311" type="way">
+      <p id="GL721_144_001" num_links="3">The Șaeș is a left tributary of the river <link wikipedia="Târnava_Mare" osm="200659549" type="way">Târnava Mare</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It discharges into the Târnava Mare in the city <link wikipedia="Sighișoara" osm="59722301" type="node">Sighișoara</link>. Its length is 34 km (21 mi) and its basin size is 124 km2 (48 sq mi).[2]
+
+</p>
+    </entity>
+    <entity id="GL721_145" wikipedia="Șapartoc_River" osm="305294870" type="way">
+      <p id="GL721_145_001" num_links="2">The Șapartoc is a left tributary of the river <link wikipedia="Târnava_Mare" osm="200659549" type="way">Târnava Mare</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It flows into the Târnava Mare in Albești. Its length is 11 km (6.8 mi) and its basin size is 17 km2 (6.6 sq mi).[2]
+
+</p>
+    </entity>
+    <entity id="GL721_146" wikipedia="Șar_(Mureș)" osm="287832366" type="way">
+      <p id="GL721_146_001" num_links="2">The Șar (Hungarian: Sár-patak) is a right tributary of the river <link wikipedia="Mureș_(river)" osm="6266401" type="relation">Mureș</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It discharges into the Mureș in Glodeni. Its name originates from the Hungarian "sár" meaning “mud”, so the Hungarian name means “Muddy Creek”. Its length is 20 km (12 mi) and its basin size is 103 km2 (40 sq mi).[2]
+
+</p>
+    </entity>
+    <entity id="GL721_147" wikipedia="Șercaia_(river)" osm="6256437" type="relation">
+      <p id="GL721_147_001" num_links="2">The Șercaia is a left tributary of the river <link wikipedia="Olt_(river)" osm="343239332" type="way">Olt</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It discharges into the Olt in Hălmeag. Its length is 46 km (29 mi) and its basin size is 350 km2 (140 sq mi).[2] The upper reach of the river, upstream of the confluence with the Holbav is also known as Valea Poiana Mărului. The middle reach of the river, from the junction with the Holbav to the confluence with the Scurta (downstream of the village of Vad) is also known as the Șinca.
+
+</p>
+    </entity>
+    <entity id="GL721_148" wikipedia="Șes_(Râul_Mare)" osm="6281642" type="relation">
+      <p id="GL721_148_001" num_links="2">The Șes is a left tributary of the river <link wikipedia="Râul_Mare_(Strei)" osm="6281637" type="relation">Râul Mare</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It discharges into the Gura Apelor reservoir, which is drained by the Râul Mare. Its length is 23 km (14 mi) and its basin size is 75 km2 (29 sq mi).[2]
+
+</p>
+    </entity>
+    <entity id="GL721_149" wikipedia="Șicasău_River" osm="349927000" type="way">
+      <p id="GL721_149_001" num_links="2">The Șicasău is a left tributary of the river <link wikipedia="Târnava_Mare" osm="200659549" type="way">Târnava Mare</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It discharges into the Zetea Reservoir, which is drained by the Târnava Mare. Its length is 20 km (12 mi) and its basin size is 155 km2 (60 sq mi).[2]
+
+</p>
+    </entity>
+    <entity id="GL721_150" wikipedia="Șilindia" osm="422878174" type="node">
+      <p id="GL721_150_001" num_links="4">Șilindia (Hungarian: Selénd) is a commune in <link wikipedia="Arad_County" osm="2248721" type="relation">Arad County</link>, <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>, is lies in the <link wikipedia="Crișul_Alb" osm="89464" type="relation">Crișul Alb</link> Basin, at the northern feet of Cigherul Hills, along the river Cigher. Its total surface is 3093 hectares. It is composed of five villages: Camna (Kávna), Iercoșeni (Újárkos), Luguzău (Lugozó), Satu Mic (Dezsőháza) and Șilindia (situated at 54 km from <link wikipedia="Arad,_Romania" osm="25721593 45422208" type="node way">Arad</link>).
+</p>
+    </entity>
+    <entity id="GL721_151" wikipedia="Șimian_(island)" osm="74511900" type="way">
+      <p id="GL721_151_001" num_links="5">Șimian (Serbian: Šimijan) is a river island on the <link wikipedia="Danube" osm="15942834 30463028 30853628 302098079 697612120 89652" type="way way way way way relation">Danube</link> belonging to <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>, just downstream of the city of <link wikipedia="Drobeta-Turnu_Severin" osm="126278515" type="node">Turnu Severin</link> and overlooking the town of Şimian. The island is home to the reconstructed fortress relocated from the historic <link wikipedia="Ada_Kaleh" osm="959801974" type="node">Ada Kaleh</link> island, when it was due to be submerged by the <link wikipedia="Iron_Gate_I_Hydroelectric_Power_Station" osm="28270536" type="way">Iron Gate I</link> dam building in 1968.[1] For that reason, it is also known as the "New Ada Kaleh", although the ambitious resettlement plan has never been completed.
+</p>
+    </entity>
+    <entity id="GL721_152" wikipedia="Șimleu_Silvaniei" osm="129993253" type="node">
+      <p id="GL721_152_001" num_links="3">Șimleu Silvaniei (Romanian pronunciation: [ʃimˌle.u silˈvani.ej]; Hungarian: Szilágysomlyó, German: Schomlenmarkt) is a town in <link wikipedia="Sălaj_County" osm="91685" type="relation">Sălaj County</link>, <link wikipedia="Transylvania" osm="2563285717" type="node">Transylvania</link>, <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link> with a population of 16,066 people (2002 census). Is located near the ancient Dacian fortress Dacidava.
+</p>
+    </entity>
+    <entity id="GL721_153" wikipedia="Șimon_River" osm="6256192" type="relation">
+      <p id="GL721_153_001" num_links="2">The Șimon (in its upper course also: Gaura) is a right tributary of the river <link wikipedia="Turcu_(Bârsa)" osm="6256188" type="relation">Turcu</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] Its source is in the Bucegi Mountains. It flows into the Turcu in Bran. Its length is 15 km (9.3 mi) and its basin size is 38 km2 (15 sq mi).[2]
+
+</p>
+    </entity>
+    <entity id="GL721_154" wikipedia="Șipca,_Transnistria" osm="8726395" type="relation">
+      <p id="GL721_154_001" num_links="3">Șipca (Ukrainian: Шипка; Russian: Шипка, Shypka) is a commune in the <link wikipedia="Grigoriopol_District" osm="1702214" type="relation">Grigoriopol sub-district</link> of <link wikipedia="Transnistria" osm="2043451343 65335" type="node relation">Transnistria</link>, <link wikipedia="Moldova" osm="424316417 58974" type="node relation">Moldova</link>. It is composed of two villages, Șipca and Vesioloe (Веселе, Весёлое).[1] It is currently under the administration of the breakaway government of the Transnistrian Moldovan Republic.
+
+</p>
+    </entity>
+    <entity id="GL721_155" wikipedia="Șoimoș_(river)" osm="24642426" type="way">
+      <p id="GL721_155_001" num_links="3">The Șoimoș (Hungarian: Solymos-patak) is a right tributary of the river <link wikipedia="Mureș_(river)" osm="6266401" type="relation">Mureș</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It discharges into the Mureș in the village <link wikipedia="Lipova,_Arad" osm="34088255" type="node">Șoimoș</link>. Its length is 11 km (6.8 mi) and its basin size is 22 km2 (8.5 sq mi).[2] The Hungarian name means "Hawkish Creek". The Romanian name derives from that.
+
+</p>
+    </entity>
+    <entity id="GL721_156" wikipedia="Șoimu_(Iara)" osm="291752016" type="way">
+      <p id="GL721_156_001" num_links="2">The Șoimul or Șoimu is a left tributary of the river <link wikipedia="Iara_(Arieș)" osm="6271319" type="relation">Iara</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It flows into the Iara near Cerc. Its length is 17 km (11 mi) and its basin size is 33 km2 (13 sq mi).[2]
+
+</p>
+    </entity>
+    <entity id="GL721_157" wikipedia="Șoldănești_District" osm="1693561" type="relation">
+      <p id="GL721_157_001" num_links="3">Șoldănești is a district (<link wikipedia="Romanian_language" osm="4933644467" type="node">Romanian</link>: raion) in the north-east of <link wikipedia="Moldova" osm="424316417 58974" type="node relation">Moldova</link>, with the administrative center at <link wikipedia="Șoldănești" osm="265099153" type="node">Șoldănești</link>.
+As of 1 January 2011, its population was 43,300.
+
+</p>
+      <p id="GL721_157_002" num_links="3">Localities with the earliest documentary attestation are Dobrusa, Olişcani, Răspopeni, Salcia are certified in period 1437–1448. In the 16th–18th centuries, continued economic development (trade, crafts), cultural (build churches, monasteries) and has been a marked increase in the population. Since late 18th and early 19th century, the region's economic decay occurs as a result of the constant wars led by <link wikipedia="Poland" osm="432425060 49715" type="node relation">Poland</link>, the Ottoman Empire and Russian Empire for influence in the region. In 1812 Treaty of Bucharest divides Basarabia from the <link wikipedia="Moldavia" osm="2563285714" type="node">Principality of Moldova</link>, the first being ceded to Russia. In 1918, after the collapse of the Russian Empire, Basarabia decide union with the motherland Romania, during this period (1918–1944) district, is part of Soroca County. Basarabia is again busy this time of the USSR after the Molotov-Ribbentrop Treaty. In 1991 as a result of the proclamation of Independence of Moldova, part of the Soroca County (1991–2003), and in 2003 became administrative unit of <link wikipedia="Moldova" osm="424316417 58974" type="node relation">Moldova</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_158" wikipedia="Ștefan_Vodă_District" osm="65344" type="relation">
+      <p id="GL721_158_001" num_links="5">Ștefan Vodă is a district (<link wikipedia="Romanian_language" osm="4933644467" type="node">Romanian</link>: raion) in the south-east of <link wikipedia="Moldova" osm="424316417 58974" type="node relation">Moldova</link>, with the administrative center at <link wikipedia="Ștefan_Vodă" osm="265099169" type="node">Ștefan Vodă</link>.
+As of 1 January 2011, its population was 71,900. The city situated 100 km from <link wikipedia="Chișinău" osm="129991407 1748490" type="node relation">Chișinău</link> and 100 km from <link wikipedia="Odessa" osm="26150437 1413934" type="node relation">Odessa, Ukraine</link>.
+
+</p>
+      <p id="GL721_158_002" num_links="3">Localities with the earliest documentary attestation are: Cioburciu, <link wikipedia="Olănești" osm="273191868 1811532" type="node relation">Olănești</link>, Carahasani, hardcore first certified locations in 1405-1456. In the 16th-18th centuries, develop intense agriculture, an important <link wikipedia="Wine" osm="1217557194" type="node">wine</link>-making industries and population growth attests. In 1812, after the Russo-Turkish War (1806-1812), is the occupation of Bessarabia, Russian Empire during this period (1812–1917), there is an intense russification of the native population. In 1918, after the collapse of the Russian Empire, Bessarabia united with Romania in this period (1918–1940, 1941–1944), the district is part of the Cetatea Albă County. In 1940, after Molotov-Ribbentrop Treaty, Bessarabia is occupied by the USSR. In 1991 as a result of the proclamation of Independence of Moldova, part and residence of the Tighina County (1991–2003), and in 2003 became administrative unit of <link wikipedia="Moldova" osm="424316417 58974" type="node relation">Moldova</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_159" wikipedia="Ștefan_cel_Mare_Central_Park" osm="1618790" type="relation">
+      <p id="GL721_159_001" num_links="4">Ștefan cel Mare Central Park (<link wikipedia="Romanian_language" osm="4933644467" type="node">Romanian</link>: Grădina Publică „Ștefan cel Mare” / Parcul „Ștefan cel Mare”) is the main park in <link wikipedia="Sectorul_Centru" osm="6214806958 58512" type="node relation">Central Chișinău</link>, <link wikipedia="Moldova" osm="424316417 58974" type="node relation">Moldova</link>. Formerly known as Pushkin Park, it is the oldest park in Moldova and spans about 7 hectares (17 acres). It has gained the nickname "The Park of the Lovers" in <link wikipedia="Chișinău" osm="129991407 1748490" type="node relation">Chișinău</link> due to its popularity as a meeting spot for couples. The park contains 50 species of trees, some of which are quite old, the mulberries and acacias being between 130 and 180 years.
+
+</p>
+    </entity>
+    <entity id="GL721_160" wikipedia="Ștefan_cel_Mare_metro_station" osm="5257635112" type="node">
+      <p id="GL721_160_001" num_links="4">Ştefan cel Mare is a metro station in <link wikipedia="Bucharest" osm="96209423 377733" type="node relation">Bucharest</link>. Located in west-central Bucharest, it is named after <link wikipedia="Stephen_III_of_Moldavia" osm="2387231700" type="node">Ştefan cel Mare</link>, a medieval <link wikipedia="Moldavia" osm="2563285714" type="node">Moldavian</link> prince regarded as a hero in Romania for his long resistance against the Ottoman Empire. It is located near the <link wikipedia="Stadionul_Dinamo" osm="28212482" type="way">Dinamo Stadium</link>. The RATB connections are 1, 5 and 46 (trams).
+
+</p>
+    </entity>
+    <entity id="GL721_161" wikipedia="Ștei" osm="137952624" type="node">
+      <p id="GL721_161_001" num_links="3">Ștei (Hungarian: Vaskohsziklás) is a town in <link wikipedia="Bihor_County" osm="91731" type="relation">Bihor County</link>, western <link wikipedia="Transylvania" osm="2563285717" type="node">Transylvania</link>, <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>. Between 1958 and 1996, it was named Dr. Petru Groza, after the Romanian socialist leader who had died in 1958.
+
+</p>
+    </entity>
+    <entity id="GL721_162" wikipedia="Șugag_River" osm="422271039" type="way">
+      <p id="GL721_162_001" num_links="2">The Șugag is a left tributary of the river <link wikipedia="Dobra_(Sebeș)" osm="6278025" type="relation">Dobra</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It flows into the Dobra near Jina. Its length is 11 km (6.8 mi) and its basin size is 22 km2 (8.5 sq mi).[2]
+
+</p>
+    </entity>
+    <entity id="GL721_163" wikipedia="Țelna_River" osm="27180647" type="way">
+      <p id="GL721_163_001" num_links="2">The Țelna is a left tributary of the river <link wikipedia="Ighiu_(river)" osm="27180022" type="way">Ighiu</link> in <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>.[1][2] It flows into the Ighiu in the village Ighiu. Its length is 15 km (9.3 mi) and its basin size is 29 km2 (11 sq mi).[2]
+
+</p>
+    </entity>
+    <entity id="GL721_164" wikipedia="Țăndărei" osm="150597114" type="node">
+      <p id="GL721_164_001" num_links="3">Țăndărei (Romanian pronunciation: [t͡səndəˈrej]) is a town in <link wikipedia="Ialomița_County" osm="2355517" type="relation">Ialomița County</link>, <link wikipedia="Romania" osm="432425064 90689" type="node relation">Romania</link>, with a population of 12,000. It is located on the Bărăgan Plain and it is crossed by the <link wikipedia="Ialomița_(river)" osm="6153744" type="relation">Ialomița River</link>. It was declared a town in 1968. It is known by some as the “Beverley Hills for Romanian gangsters”.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_165" wikipedia="ʻAta" osm="329093317" type="way">
+      <p id="GL721_165_001" num_links="2">ʻAta is a small, rocky island in the far south of the <link wikipedia="Tonga" osm="424311848 2186665" type="node relation">Tonga</link> archipelago, situated on 22°20′30″S 176°12′30″W﻿ / ﻿22.34167°S 176.20833°W﻿ / -22.34167; -176.20833. It is also known as Pylstaart island. It should not be confused with ʻAtā, which is an uninhabited, low coral island in the string of small atolls along the Piha passage along the northside of <link wikipedia="Tongatapu" osm="3772680 4194205" type="relation relation">Tongatapu</link>, nor should it be confused with Ata, a traditional chiefly title from Kolovai.
+
+</p>
+    </entity>
+    <entity id="GL721_166" wikipedia="ʻAtenisi_Institute" osm="307130808" type="way">
+      <p id="GL721_166_001" num_links="3">
+ʻAtenisi Institute is located in the <link wikipedia="Tonga" osm="424311848 2186665" type="node relation">Kingdom of Tonga</link> and comprises ʻAtenisi University and the ʻAtenisi Foundation for the Performing Arts. ʻAtenisi in Tongan means <link wikipedia="Athens" osm="441183" type="node">Athens</link>, the capital of <link wikipedia="Greece" osm="432424989 192307" type="node relation">Greece</link>. The institute, founded by Futa Helu (1934–2010), began as a continuing education programme for civil servants, then initiated a high school in 1964 (now independently operated by ACTS Community Schools) and a university in 1975.
+
+</p>
+    </entity>
+    <entity id="GL721_167" wikipedia="ʻEua" osm="5817134" type="relation">
+      <p id="GL721_167_001" num_links="2">ʻEua is a smaller but still major island in the kingdom of <link wikipedia="Tonga" osm="424311848 2186665" type="node relation">Tonga</link>. It is close to <link wikipedia="Tongatapu" osm="3772680 4194205" type="relation relation">Tongatapu</link>, but forms a separate administrative division. It has an area of 87.44 km2 (33.76 sq mi), and a population in 2011 of 5,016 people.
+
+</p>
+    </entity>
+    <entity id="GL721_168" wikipedia="ʻEua_Airport" osm="306363179" type="way">
+      <p id="GL721_168_001" num_links="2">Eua Airport (IATA: EUA, ICAO: NFTE),[3] known in Tonga as Kaufana Airport, is an airport in <link wikipedia="ʻEua" osm="5817134" type="relation">ʻEua</link>, <link wikipedia="Tonga" osm="424311848 2186665" type="node relation">Tonga</link>. The airport is located 3 km (1.9 mi) southeast of the capital 'Ohonua. Tonga's domestic airline Real Tonga provides frequent service from Tongatapu. It takes only eight minutes to fly from Tongatapu, making it one of the world's shortest commercial flights. The airfield is an unsealed coral strip.[4]
+
+</p>
+    </entity>
+    <entity id="GL721_169" wikipedia="ʻUalapuʻe,_Hawaii" osm="150916655" type="node">
+      <p id="GL721_169_002" num_links="5">Ualapue (Hawaiian: ʻUalapuʻe) is an unincorporated community and census-designated place on the island of <link wikipedia="Molokai" osm="1082120" type="relation">Molokaʻi</link> in <link wikipedia="Maui_County,_Hawaii" osm="166561" type="relation">Maui County</link>, <link wikipedia="Hawaii" osm="316949921 166563" type="node relation">Hawaii</link>, <link wikipedia="United_States" osm="424317935 148838" type="node relation">United States</link>. Its population was 425 as of the 2010 census.[1] The community is located along Hawaii Route 450 on the southeast coast of the island of <link wikipedia="Molokai" osm="1082120" type="relation">Molokaʻi</link>. Ualapue does not have villages, but many famous fishponds.[3]
+
+</p>
+    </entity>
+    <entity id="GL721_170" wikipedia="ʻUtulau" osm="1802086094" type="node">
+      <p id="GL721_170_001" num_links="2">ʻUtulau is a village on the western district of <link wikipedia="Tongatapu" osm="3772680 4194205" type="relation relation">Tongatapu</link>, <link wikipedia="Tonga" osm="424311848 2186665" type="node relation">Tonga</link>. It is one of the estates of Crown Prince Tupoutoʻa, the heir to the Tongan throne. The traditional chief of the village is Tau'atevalu. Tupouto'a has several talking chiefs from 'Utulau namely To'amalekini, Manukainiu as well as a few others. 
+
+</p>
+    </entity>
+    <entity id="GL721_171" wikipedia="ʽAdar" osm="1218051788" type="node">
+      <p id="GL721_171_001" num_links="2"> `Adar is a village in west-central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_172" wikipedia="ʽAfish" osm="1218191424" type="node">
+      <p id="GL721_172_001" num_links="2"> `Afish is a village in western central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_173" wikipedia="ʽAlman" osm="1226371305" type="node">
+      <p id="GL721_173_001" num_links="2"> `Alman is a village in west-central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_174" wikipedia="ʽAmbaq" osm="1227124533" type="node">
+      <p id="GL721_174_001" num_links="2"> `Ambaq is a village in western central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_175" wikipedia="ʽAmri" osm="1227112423" type="node">
+      <p id="GL721_175_001" num_links="2">‘Amri is a village in west-central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_176" wikipedia="ʽAqlar" osm="1226374956" type="node">
+      <p id="GL721_176_001" num_links="2"> `Aqlar is a village in west-central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_177" wikipedia="ʽAshib" osm="1227133158" type="node">
+      <p id="GL721_177_001" num_links="2"> ʽAshib is a village in west-central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_178" wikipedia="ʽAttan" osm="1222641854" type="node">
+      <p id="GL721_178_001" num_links="2"> `Attan is a village in western central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_179" wikipedia="ʽAwmarah" osm="1224233160" type="node">
+      <p id="GL721_179_001" num_links="2"> `Awmarah is a village in west-central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_180" wikipedia="ʽIlaf" osm="1218187820" type="node">
+      <p id="GL721_180_001" num_links="2"> `Ilaf is a village in western central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_181" wikipedia="ʽIman" osm="1222651594" type="node">
+      <p id="GL721_181_001" num_links="2"> `Iman is a village in western central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_182" wikipedia="ʽInad" osm="1227098632" type="node">
+      <p id="GL721_182_001" num_links="2"> `Inad is a village in western central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_183" wikipedia="ʽIyal_Musa" osm="1226373657" type="node">
+      <p id="GL721_183_001" num_links="2">`Iyal Musa is a village in west-central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_184" wikipedia="ʽUwayrah" osm="1226372169" type="node">
+      <p id="GL721_184_001" num_links="2"> `Uwayrah is a village in west-central <link wikipedia="Yemen" osm="249399459 305092" type="node relation">Yemen</link>. It is located in the <link wikipedia="Sanaʽa_Governorate" osm="663081623 383891" type="node relation">San‘a’ Governorate</link>.
+
+</p>
+    </entity>
+    <entity id="GL721_185" wikipedia="Ọya" osm="2463529042" type="node">
+      <p id="GL721_185_001" num_links="2">Ọya (Yoruba: Ọya, also known as Oyá or Oiá; Yansá or Yansã; and Iansá or Iansã in Latin America) is an orisha of winds, lightning, and violent storms, death and rebirth.[1] She is similar to the <link wikipedia="Haiti" osm="424297281 307829 7326620" type="node relation relation">Haitian</link> god Maman Brigitte, who is syncretised with the Catholic <link wikipedia="Brigid_of_Kildare" osm="6286295817" type="node">Saint Brigit</link>.
+</p>
+    </entity>
+    <entity id="GL721_186" wikipedia="Ứng_Hòa_District" osm="7115580" type="relation">
+      <p id="GL721_186_001" num_links="5">Ứng Hòa is a southern <link wikipedia="List_of_districts_of_Vietnam" osm="4330519157" type="node">district (</link>huyện) of <link wikipedia="Hanoi" osm="74132064 1903516" type="node relation">Hanoi</link> in the <link wikipedia="Red_River_Delta" osm="3769301" type="relation">Red River Delta</link> region of <link wikipedia="Vietnam" osm="424298150 49915" type="node relation">Vietnam</link>. The River Đáy forms much of the western boundary with <link wikipedia="Mỹ_Đức_District" osm="7115398" type="relation">Mỹ Đức District</link>. It covers an area of 183.72 square kilometres (70.93 sq mi), and as of 2005 it had a population of 193,731 people. It has 28 communes and one town.[1]
+
+</p>
+    </entity>
+    <entity id="GL721_187" wikipedia="‘Aziziya" osm="3300366408" type="node">
+      <p id="GL721_187_001" num_links="5">‘Aziziya (Anglicized: /əˈziːziːə/; <link wikipedia="Arabic" osm="6271347691" type="node">Arabic</link>: العزيزية‎ al-ʿAzīziyyah / al-ʻAzīzīyah / al-ʿazīzīya), sometimes spelled El Azizia, is a small town and it was the capital of the <link wikipedia="Jafara" osm="2060176" type="relation">Jafara</link> district in northwestern <link wikipedia="Libya" osm="432425023 192758" type="node relation">Libya</link>, 41 kilometres (25 mi) southwest of the capital <link wikipedia="Tripoli" osm="1699640925" type="node">Tripoli</link>. From 1918-22 it was the capital of the Tripolitanian Republic, the first formal republic in the Arab world. Before 2001 it was in the ‘Aziziya District and its capital. ‘Aziziya is a major trade centre of the Sahel Jeffare plateau, being on a trade route from the coast to the Nafusa Mountains and the <link wikipedia="Fezzan" osm="6605609" type="relation">Fezzan</link> region to the south[citation needed]. As of 2006, the town's population has been estimated at over 23,399.[1]
+
+</p>
+    </entity>
+  </entities>
+</data>
