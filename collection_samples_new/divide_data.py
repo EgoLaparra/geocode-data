@@ -13,14 +13,22 @@ def get_all_data(data_path):
     all_entities = collection.xpath('//entity')
     return all_entities
 
-def extract_save_entities(train_sample_entities, dev_sample_entites, output_train_path, output_dev_path):
-    sample_doc = etree.Element('data', id='train')
-    sample_entities_xml = etree.SubElement(sample_doc, 'entities')
+def extract_save_entities(train_sample_entities, dev_sample_entities, output_train_path, output_dev_path):
+    train_sample_doc = etree.Element('data', id='train')
+    train_sample_entities_xml = etree.SubElement(train_sample_doc, 'entities')
     for entity in train_sample_entities:
-        sample_entities_xml.append(entity)
-    sample_tree = etree.ElementTree(sample_doc)
-    with open(output_train_path, 'wb') as sample_file:
-        sample_tree.write(sample_file, xml_declaration=True, encoding='utf-8')
+        train_sample_entities_xml.append(entity)
+    train_sample_tree = etree.ElementTree(train_sample_doc)
+    with open(output_train_path, 'wb') as train_sample_file:
+        train_sample_tree.write(train_sample_file, xml_declaration=True, encoding='utf-8')
+
+    dev_sample_doc = etree.Element('data', id='dev')
+    dev_sample_entities_xml = etree.SubElement(dev_sample_doc, 'entities')
+    for entity in dev_sample_entities:
+        dev_sample_entities_xml.append(entity)
+    dev_sample_tree = etree.ElementTree(dev_sample_doc)
+    with open(output_dev_path, 'wb') as dev_sample_file:
+        dev_sample_tree.write(dev_sample_file, xml_declaration=True, encoding='utf-8')
 
 
 
