@@ -24,6 +24,7 @@ def extract_save_entities(train_sample_entities, dev_sample_entites, output_trai
 
 
 
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_path', default='train.xml', type=str,
